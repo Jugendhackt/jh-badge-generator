@@ -13,7 +13,7 @@ var background_color = '#d1d6da';
 var background_line_color = 'white';
 var border_color = '#0da5dc';
 var cutmark_color = 'red';
-var logo_color = '#00b48d'; // TODO Settings
+var logo_color = '#00b48d';
 var text_background_color = '#ea5297';
 var text_color = '#FFFFFF';
 var badge_text = 'JUGEND HACKT\nEVENT';
@@ -94,7 +94,6 @@ function renderBadge() {
 	    while (hex.intersects(logo)) {
 	        logo.scale(0.9);
 	    }
-	    // TODO: make configurable
 	    logo.children['fg'].fillColor = logo_color;
 	}
 	var logo = paper.project.importSVG("jh.svg", {onLoad: onLogoLoad});
@@ -161,8 +160,20 @@ function updateTextAndColor(){
 		} else {
 			text_background_color = text
 		}
-		renderBadge();
 	}
+
+	var text = document.getElementById("colorLogo").value;
+	console.log(text);
+
+	if(text.length>0){
+		if (text.length == 3 || text.length == 6) {
+			logo_color = "#" + text
+		} else {
+			logo_color = text
+		}
+	}
+
+	renderBadge();
 }
 
 function downloadSVG(){
