@@ -6,9 +6,9 @@ var border_center = new Point(30, 30);
 var border_radius = 25.5;
 var bg_from = new Point(0, 0);
 var bg_to = new Point(60, 60);
-var img_max_height = 15;
-var img_max_width = 30;
-var font_size = 2;
+var img_max_height = 19.5;
+var img_max_width = 19.5;
+var font_size = 1.95;
 var background_color = '#d1d6da';
 var background_line_color = 'white';
 var border_color = '#0da5dc';
@@ -17,6 +17,12 @@ var logo_color = '#00b48d'; // TODO Settings
 var text_background_color = '#ea5297';
 var text_color = '#FFFFFF';
 var badge_text = 'JUGEND HACKT\nEVENT';
+var lineheight = 0.8;
+var text_padding_top = 1.33;
+var text_padding_bottom = 1.33;
+var text_padding_left = 2.66;
+var text_padding_right = 2.66;
+var image_offset = 23;
 
 window.onload = function() {
 	paper.setup('paperCanvas');
@@ -24,7 +30,7 @@ window.onload = function() {
 }
 function renderBadge() {
 	project.clear();
-	paper.view.zoom = 10;
+	paper.view.zoom = 13;
 	paper.view.center = (30,30);
 
 
@@ -77,8 +83,8 @@ function renderBadge() {
 
 	function onLogoLoad(logo) {
 	    var logoGroup = new Group();
-	    var image_top = border_center.y - border_radius;
-	    var image_btm = border_center.y + border_radius/2;
+	    var image_top = border_center.y - image_offset;
+	    var image_btm = border_center.y + image_offset/2;
 	    var image_center = (image_top+image_btm)/2;
 
 	    logo.position = new Point(border_center.x, image_center);
@@ -92,7 +98,13 @@ function renderBadge() {
 	    logo.children['fg'].fillColor = logo_color;
 	}
 	var logo = paper.project.importSVG("jh.svg", {onLoad: onLogoLoad});
-	var boxTriangle = new Path(new Point(33.66, 33.33), new Point(33.66,35.33), new Point(35.66,35.33));
+
+	// function origLoad(logo) {
+	//     logo.position = border_center;
+	// }
+	// var orig = paper.project.importSVG("jh_orig.svg", {onLoad: origLoad});
+
+	var boxTriangle = new Path(new Point(39.66, 35.33), new Point(39.66, 37.33), new Point(41.66,37.33));
 	boxTriangle.fillColor = text_background_color;
 
 	addText(badge_text, border_center)
@@ -117,19 +129,16 @@ function addText(text, center) {
 				paperpath.fillColor = text_color;
 				lineGroup.addChild(paperpath);
 			}
-			baseline += lineGroup.bounds.height + 1.33;
+			baseline += lineGroup.bounds.height + lineheight;
 			if (textGroup.bounds.width != 0) {
 				lineGroup.position.x = textGroup.position.x;
 			}
 			textGroup.addChild(lineGroup);
 		}
-
-		var bounds = textGroup.bounds;
-		console.log(center.x, bounds.width);
 		textGroup.position.x = center.x;
-		textGroup.position.y = 35.33 + bounds.height - 1.33;
-		var padding = 1.33;
-		var textRect = new Path.Rectangle(new Point(textGroup.bounds.x - padding, 35.33), new Point(textGroup.bounds.x + textGroup.bounds.width + padding, textGroup.bounds.y + textGroup.bounds.height + padding));
+		textGroup.position.y = 35.33 + textGroup.bounds.height;
+
+		var textRect = new Path.Rectangle(new Point(textGroup.bounds.x - text_padding_left, 37.33), new Point(textGroup.bounds.x + textGroup.bounds.width + text_padding_right, textGroup.bounds.y + textGroup.bounds.height + text_padding_bottom));
 		textRect.fillColor = text_background_color;
 		textGroup.bringToFront();
 	});

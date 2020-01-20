@@ -1,0 +1,4617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48.1673"
+   height="55.6188"
+   viewBox="5.91635,2.1906,48.1673,55.6188"
+   id="svg677"
+   sodipodi:docname="jh_orig.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata681">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1031"
+     id="namedview679"
+     showgrid="false"
+     inkscape:zoom="27.632854"
+     inkscape:cx="24.083651"
+     inkscape:cy="16.767646"
+     inkscape:window-x="2"
+     inkscape:window-y="47"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg677" />
+  <defs
+     id="defs8">
+    <clipPath
+       id="clip-1">
+      <path
+         d="M7.91635,17.25l22.08365,-12.75l22.08365,12.75v25.5l-22.08365,12.75l-22.08365,-12.75z"
+         fill="none"
+         stroke="none"
+         stroke-width="1"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       id="clip-2">
+      <rect
+         x="11.42308"
+         y="8.10897"
+         transform="scale(1.77273,1.77273)"
+         width="11"
+         height="11"
+         fill="none"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="clip-path-646"
+       transform="translate(-0.1 7.67)">
+      <polygon
+         points="595.82,112.37 539.6,144.9 483.38,112.37 483.38,47.3 539.6,14.77 595.82,47.3 "
+         style="fill:none"
+         id="polygon53" />
+    </clipPath>
+    <clipPath
+       id="clip-path-647"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect56" />
+    </clipPath>
+    <clipPath
+       id="clipPath8412"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8410" />
+    </clipPath>
+    <clipPath
+       id="clipPath8416"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8414" />
+    </clipPath>
+    <clipPath
+       id="clipPath8420"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8418" />
+    </clipPath>
+    <clipPath
+       id="clipPath8424"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8422" />
+    </clipPath>
+    <clipPath
+       id="clipPath8428"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8426" />
+    </clipPath>
+    <clipPath
+       id="clipPath8432"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8430" />
+    </clipPath>
+    <clipPath
+       id="clipPath8436"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8434" />
+    </clipPath>
+    <clipPath
+       id="clipPath8440"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8438" />
+    </clipPath>
+    <clipPath
+       id="clipPath8444"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8442" />
+    </clipPath>
+    <clipPath
+       id="clipPath8448"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8446" />
+    </clipPath>
+    <clipPath
+       id="clipPath8452"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8450" />
+    </clipPath>
+    <clipPath
+       id="clipPath8456"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8454" />
+    </clipPath>
+    <clipPath
+       id="clipPath8460"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8458" />
+    </clipPath>
+    <clipPath
+       id="clipPath8464"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8462" />
+    </clipPath>
+    <clipPath
+       id="clipPath8468"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8466" />
+    </clipPath>
+    <clipPath
+       id="clipPath8472"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8470" />
+    </clipPath>
+    <clipPath
+       id="clipPath8476"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8474" />
+    </clipPath>
+    <clipPath
+       id="clipPath8480"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8478" />
+    </clipPath>
+    <clipPath
+       id="clipPath8484"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8482" />
+    </clipPath>
+    <clipPath
+       id="clipPath8488"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8486" />
+    </clipPath>
+    <clipPath
+       id="clipPath8492"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8490" />
+    </clipPath>
+    <clipPath
+       id="clipPath8496"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8494" />
+    </clipPath>
+    <clipPath
+       id="clipPath8500"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8498" />
+    </clipPath>
+    <clipPath
+       id="clipPath8504"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8502" />
+    </clipPath>
+    <clipPath
+       id="clipPath8508"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8506" />
+    </clipPath>
+    <clipPath
+       id="clipPath8512"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8510" />
+    </clipPath>
+    <clipPath
+       id="clipPath8516"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8514" />
+    </clipPath>
+    <clipPath
+       id="clipPath8520"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8518" />
+    </clipPath>
+    <clipPath
+       id="clipPath8524"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8522" />
+    </clipPath>
+    <clipPath
+       id="clipPath8528"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8526" />
+    </clipPath>
+    <clipPath
+       id="clipPath8532"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8530" />
+    </clipPath>
+    <clipPath
+       id="clipPath8536"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8534" />
+    </clipPath>
+    <clipPath
+       id="clipPath8540"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8538" />
+    </clipPath>
+    <clipPath
+       id="clipPath8544"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8542" />
+    </clipPath>
+    <clipPath
+       id="clipPath8548"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8546" />
+    </clipPath>
+    <clipPath
+       id="clipPath8552"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8550" />
+    </clipPath>
+    <clipPath
+       id="clipPath8556"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8554" />
+    </clipPath>
+    <clipPath
+       id="clipPath8560"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8558" />
+    </clipPath>
+    <clipPath
+       id="clipPath8564"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8562" />
+    </clipPath>
+    <clipPath
+       id="clipPath8568"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8566" />
+    </clipPath>
+    <clipPath
+       id="clipPath8572"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8570" />
+    </clipPath>
+    <clipPath
+       id="clipPath8576"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8574" />
+    </clipPath>
+    <clipPath
+       id="clipPath8580"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8578" />
+    </clipPath>
+    <clipPath
+       id="clipPath8584"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8582" />
+    </clipPath>
+    <clipPath
+       id="clipPath8588"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8586" />
+    </clipPath>
+    <clipPath
+       id="clipPath8592"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8590" />
+    </clipPath>
+    <clipPath
+       id="clipPath8596"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8594" />
+    </clipPath>
+    <clipPath
+       id="clipPath8600"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8598" />
+    </clipPath>
+    <clipPath
+       id="clipPath8604"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8602" />
+    </clipPath>
+    <clipPath
+       id="clipPath8608"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8606" />
+    </clipPath>
+    <clipPath
+       id="clipPath8612"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8610" />
+    </clipPath>
+    <clipPath
+       id="clipPath8616"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8614" />
+    </clipPath>
+    <clipPath
+       id="clipPath8620"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8618" />
+    </clipPath>
+    <clipPath
+       id="clipPath8624"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8622" />
+    </clipPath>
+    <clipPath
+       id="clipPath8628"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8626" />
+    </clipPath>
+    <clipPath
+       id="clipPath8632"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8630" />
+    </clipPath>
+    <clipPath
+       id="clipPath8636"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8634" />
+    </clipPath>
+    <clipPath
+       id="clipPath8640"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8638" />
+    </clipPath>
+    <clipPath
+       id="clipPath8644"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8642" />
+    </clipPath>
+    <clipPath
+       id="clipPath8648"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8646" />
+    </clipPath>
+    <clipPath
+       id="clipPath8652"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8650" />
+    </clipPath>
+    <clipPath
+       id="clipPath8656"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8654" />
+    </clipPath>
+    <clipPath
+       id="clipPath8660"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8658" />
+    </clipPath>
+    <clipPath
+       id="clipPath8664"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8662" />
+    </clipPath>
+    <clipPath
+       id="clipPath8668"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8666" />
+    </clipPath>
+    <clipPath
+       id="clipPath8672"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8670" />
+    </clipPath>
+    <clipPath
+       id="clipPath8676"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8674" />
+    </clipPath>
+    <clipPath
+       id="clipPath8680"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8678" />
+    </clipPath>
+    <clipPath
+       id="clipPath8684"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8682" />
+    </clipPath>
+    <clipPath
+       id="clipPath8688"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8686" />
+    </clipPath>
+    <clipPath
+       id="clipPath8692"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8690" />
+    </clipPath>
+    <clipPath
+       id="clipPath8696"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8694" />
+    </clipPath>
+    <clipPath
+       id="clipPath8700"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8698" />
+    </clipPath>
+    <clipPath
+       id="clipPath8704"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8702" />
+    </clipPath>
+    <clipPath
+       id="clipPath8708"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8706" />
+    </clipPath>
+    <clipPath
+       id="clipPath8712"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8710" />
+    </clipPath>
+    <clipPath
+       id="clipPath8716"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8714" />
+    </clipPath>
+    <clipPath
+       id="clipPath8720"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8718" />
+    </clipPath>
+    <clipPath
+       id="clipPath8724"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8722" />
+    </clipPath>
+    <clipPath
+       id="clipPath8728"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8726" />
+    </clipPath>
+    <clipPath
+       id="clipPath8732"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8730" />
+    </clipPath>
+    <clipPath
+       id="clipPath8736"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8734" />
+    </clipPath>
+    <clipPath
+       id="clipPath8740"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8738" />
+    </clipPath>
+    <clipPath
+       id="clipPath8744"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8742" />
+    </clipPath>
+    <clipPath
+       id="clipPath8748"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8746" />
+    </clipPath>
+    <clipPath
+       id="clipPath8752"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8750" />
+    </clipPath>
+    <clipPath
+       id="clipPath8756"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8754" />
+    </clipPath>
+    <clipPath
+       id="clipPath8760"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8758" />
+    </clipPath>
+    <clipPath
+       id="clipPath8764"
+       transform="translate(-0.1 7.67)">
+      <rect
+         x="483.38"
+         y="3.03"
+         width="112.44"
+         height="156"
+         style="fill:none"
+         id="rect8762" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(0.35230127,0,0,0.35230127,-160.06653,-0.82812207)"
+     id="g19615"
+     style="opacity:0.8">
+    <g
+       id="FFM">
+      <g
+         id="g11937"
+         clip-path="url(#clip-path-646)">
+        <g
+           id="g11935"
+           clip-path="url(#clip-path-647)">
+          <polygon
+             id="polygon10581"
+             style="fill:#d1d7da"
+             points="489.86,28.43 496.95,21.34 489.86,14.24 483.27,20.83 483.27,21.84 " />
+          <g
+             id="g10585"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10583"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,499.17115,17.626539)"
+               height="10.03"
+               width="10.03"
+               y="8.6499996"
+               x="484.95001" />
+          </g>
+          <polygon
+             id="polygon10587"
+             style="fill:#d1d7da"
+             points="483.27,20.83 489.86,14.24 489.86,10.7 486.31,10.7 483.27,13.74 " />
+          <g
+             id="g10591"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10589"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,14.24 482.77,21.34 482.77,14.24 489.86,7.15 " />
+          </g>
+          <polygon
+             id="polygon10593"
+             style="fill:#d1d7da"
+             points="496.95,21.34 496.95,14.24 493.4,10.7 489.86,10.7 489.86,14.24 " />
+          <g
+             id="g10597"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10595"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,14.24 496.95,21.34 496.95,14.24 489.86,7.15 " />
+          </g>
+          <polygon
+             id="polygon10599"
+             style="fill:#d1d7da"
+             points="489.86,56.79 496.95,49.7 489.86,42.61 483.27,49.19 483.27,50.21 " />
+          <g
+             id="g10603"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10601"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,499.17721,45.98403)"
+               height="10.03"
+               width="10.03"
+               y="37.009998"
+               x="484.95001" />
+          </g>
+          <polygon
+             id="polygon10605"
+             style="fill:#d1d7da"
+             points="489.86,35.52 483.27,42.1 483.27,49.19 489.86,42.61 " />
+          <g
+             id="g10609"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10607"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,42.61 482.77,49.7 482.77,42.61 489.86,35.52 " />
+          </g>
+          <polygon
+             id="polygon10611"
+             style="fill:#d1d7da"
+             points="489.86,42.61 496.95,49.7 496.95,42.61 489.86,35.52 " />
+          <polygon
+             id="polygon10613"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="489.86,42.61 496.95,49.7 496.95,42.61 489.86,35.52 " />
+          <polygon
+             id="polygon10615"
+             style="fill:#d1d7da"
+             points="489.86,85.15 496.95,78.06 489.86,70.97 483.27,77.56 483.27,78.57 " />
+          <g
+             id="g10619"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10617"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,499.1662,74.348592)"
+               height="10.03"
+               width="10.03"
+               y="65.379997"
+               x="484.95001" />
+          </g>
+          <polygon
+             id="polygon10621"
+             style="fill:#d1d7da"
+             points="489.86,63.88 483.27,70.47 483.27,77.56 489.86,70.97 " />
+          <g
+             id="g10625"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10623"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,70.97 482.77,78.06 482.77,70.97 489.86,63.88 " />
+          </g>
+          <polygon
+             id="polygon10627"
+             style="fill:#d1d7da"
+             points="489.86,70.97 496.95,78.06 496.95,70.97 489.86,63.88 " />
+          <polygon
+             id="polygon10629"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="489.86,70.97 496.95,78.06 496.95,70.97 489.86,63.88 " />
+          <polygon
+             id="polygon10631"
+             style="fill:#d1d7da"
+             points="489.86,113.52 496.95,106.43 489.86,99.34 483.27,105.92 483.27,106.93 " />
+          <g
+             id="g10635"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10633"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,499.17225,102.70608)"
+               height="10.03"
+               width="10.03"
+               y="93.739998"
+               x="484.95001" />
+          </g>
+          <polygon
+             id="polygon10637"
+             style="fill:#d1d7da"
+             points="489.86,92.25 483.27,98.83 483.27,105.92 489.86,99.34 " />
+          <g
+             id="g10641"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10639"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,99.34 482.77,106.43 482.77,99.34 489.86,92.25 " />
+          </g>
+          <polygon
+             id="polygon10643"
+             style="fill:#d1d7da"
+             points="489.86,99.34 496.95,106.43 496.95,99.34 489.86,92.25 " />
+          <polygon
+             id="polygon10645"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="489.86,99.34 496.95,106.43 496.95,99.34 489.86,92.25 " />
+          <polygon
+             id="polygon10647"
+             style="fill:#d1d7da"
+             points="489.86,141.88 496.95,134.79 489.86,127.7 483.27,134.28 483.27,135.3 " />
+          <g
+             id="g10651"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10649"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,499.17331,131.07565)"
+               height="10.03"
+               width="10.03"
+               y="122.1"
+               x="484.95001" />
+          </g>
+          <polygon
+             id="polygon10653"
+             style="fill:#d1d7da"
+             points="489.86,120.61 483.27,127.19 483.27,134.28 489.86,127.7 " />
+          <g
+             id="g10657"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10655"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,127.7 482.77,134.79 482.77,127.7 489.86,120.61 " />
+          </g>
+          <polygon
+             id="polygon10659"
+             style="fill:#d1d7da"
+             points="489.86,127.7 496.95,134.79 496.95,127.7 489.86,120.61 " />
+          <polygon
+             id="polygon10661"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="489.86,127.7 496.95,134.79 496.95,127.7 489.86,120.61 " />
+          <polygon
+             id="polygon10663"
+             style="fill:#d1d7da"
+             points="493.4,166.7 496.95,163.15 489.86,156.06 483.27,162.65 483.27,163.66 486.31,166.7 " />
+          <g
+             id="g10667"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10665"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,499.17437,159.44521)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="484.95001" />
+          </g>
+          <polygon
+             id="polygon10669"
+             style="fill:#d1d7da"
+             points="489.86,148.97 483.27,155.56 483.27,162.65 489.86,156.06 " />
+          <g
+             id="g10673"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10671"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="489.86,156.06 482.77,163.15 482.77,156.06 489.86,148.97 " />
+          </g>
+          <polygon
+             id="polygon10675"
+             style="fill:#d1d7da"
+             points="489.86,156.06 496.95,163.15 496.95,156.06 489.86,148.97 " />
+          <polygon
+             id="polygon10677"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="489.86,156.06 496.95,163.15 496.95,156.06 489.86,148.97 " />
+          <polygon
+             id="polygon10679"
+             style="fill:#d1d7da"
+             points="493.4,10.7 496.95,14.24 500.5,10.7 " />
+          <g
+             id="g10683"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10681"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,506.26426,3.438476)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="492.04001" />
+          </g>
+          <rect
+             id="rect10685"
+             style="fill:#d1d7da"
+             transform="rotate(-45,506.26532,31.808038)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="492.04001" />
+          <rect
+             id="rect10687"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,506.26532,31.808038)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="492.04001" />
+          <polygon
+             id="polygon10689"
+             style="fill:#d1d7da"
+             points="496.95,28.43 489.86,35.52 489.86,28.43 496.95,21.34 " />
+          <polygon
+             id="polygon10691"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,28.43 489.86,35.52 489.86,28.43 496.95,21.34 " />
+          <polygon
+             id="polygon10693"
+             style="fill:#d1d7da"
+             points="496.95,28.43 504.04,35.52 504.04,28.43 496.95,21.34 " />
+          <polygon
+             id="polygon10695"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,28.43 504.04,35.52 504.04,28.43 496.95,21.34 " />
+          <rect
+             id="rect10697"
+             style="fill:#d1d7da"
+             transform="rotate(-45,506.25931,60.160529)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="492.04001" />
+          <rect
+             id="rect10699"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,506.25931,60.160529)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="492.04001" />
+          <polygon
+             id="polygon10701"
+             style="fill:#d1d7da"
+             points="496.95,56.79 489.86,63.88 489.86,56.79 496.95,49.7 " />
+          <polygon
+             id="polygon10703"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,56.79 489.86,63.88 489.86,56.79 496.95,49.7 " />
+          <polygon
+             id="polygon10705"
+             style="fill:#d1d7da"
+             points="496.95,56.79 504.04,63.88 504.04,56.79 496.95,49.7 " />
+          <polygon
+             id="polygon10707"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,56.79 504.04,63.88 504.04,56.79 496.95,49.7 " />
+          <rect
+             id="rect10709"
+             style="fill:#d1d7da"
+             transform="rotate(-45,506.26036,88.530091)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="492.04001" />
+          <rect
+             id="rect10711"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,506.26036,88.530091)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="492.04001" />
+          <polygon
+             id="polygon10713"
+             style="fill:#d1d7da"
+             points="496.95,85.15 489.86,92.25 489.86,85.15 496.95,78.06 " />
+          <polygon
+             id="polygon10715"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,85.15 489.86,92.25 489.86,85.15 496.95,78.06 " />
+          <polygon
+             id="polygon10717"
+             style="fill:#d1d7da"
+             points="496.95,85.15 504.04,92.25 504.04,85.15 496.95,78.06 " />
+          <polygon
+             id="polygon10719"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,85.15 504.04,92.25 504.04,85.15 496.95,78.06 " />
+          <rect
+             id="rect10721"
+             style="fill:#d1d7da"
+             transform="rotate(-45,506.26142,116.89965)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="492.04001" />
+          <rect
+             id="rect10723"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,506.26142,116.89965)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="492.04001" />
+          <polygon
+             id="polygon10725"
+             style="fill:#d1d7da"
+             points="496.95,113.52 489.86,120.61 489.86,113.52 496.95,106.43 " />
+          <polygon
+             id="polygon10727"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,113.52 489.86,120.61 489.86,113.52 496.95,106.43 " />
+          <polygon
+             id="polygon10729"
+             style="fill:#d1d7da"
+             points="496.95,113.52 504.04,120.61 504.04,113.52 496.95,106.43 " />
+          <polygon
+             id="polygon10731"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,113.52 504.04,120.61 504.04,113.52 496.95,106.43 " />
+          <rect
+             id="rect10733"
+             style="fill:#d1d7da"
+             transform="rotate(-45,506.26748,145.25714)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="492.04001" />
+          <rect
+             id="rect10735"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,506.26748,145.25714)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="492.04001" />
+          <polygon
+             id="polygon10737"
+             style="fill:#d1d7da"
+             points="496.95,141.88 489.86,148.97 489.86,141.88 496.95,134.79 " />
+          <polygon
+             id="polygon10739"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,141.88 489.86,148.97 489.86,141.88 496.95,134.79 " />
+          <polygon
+             id="polygon10741"
+             style="fill:#d1d7da"
+             points="496.95,141.88 504.04,148.97 504.04,141.88 496.95,134.79 " />
+          <polygon
+             id="polygon10743"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="496.95,141.88 504.04,148.97 504.04,141.88 496.95,134.79 " />
+          <polygon
+             id="polygon10745"
+             style="fill:#d1d7da"
+             points="493.4,166.7 496.95,166.7 496.95,163.15 " />
+          <g
+             id="g10749"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10747"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="496.95,170.24 489.86,177.34 489.86,170.24 496.95,163.15 " />
+          </g>
+          <polygon
+             id="polygon10751"
+             style="fill:#d1d7da"
+             points="496.95,166.7 500.5,166.7 496.95,163.15 " />
+          <g
+             id="g10755"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10753"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="496.95,170.24 504.04,177.34 504.04,170.24 496.95,163.15 " />
+          </g>
+          <polygon
+             id="polygon10757"
+             style="fill:#d1d7da"
+             points="483.27,10.7 483.27,13.74 486.31,10.7 " />
+          <g
+             id="g10761"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10759"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,492.07698,3.4450402)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="477.85999" />
+          </g>
+          <polygon
+             id="polygon10763"
+             style="fill:#d1d7da"
+             points="483.27,42.1 489.86,35.52 483.27,28.93 " />
+          <g
+             id="g10767"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10765"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,492.08304,31.802531)"
+               height="10.03"
+               width="10.03"
+               y="22.83"
+               x="477.85999" />
+          </g>
+          <polygon
+             id="polygon10769"
+             style="fill:#d1d7da"
+             points="483.27,21.84 483.27,28.93 489.86,35.52 489.86,28.43 " />
+          <g
+             id="g10773"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10771"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="482.77,28.43 489.86,35.52 489.86,28.43 482.77,21.34 " />
+          </g>
+          <polygon
+             id="polygon10775"
+             style="fill:#d1d7da"
+             points="483.27,70.47 489.86,63.88 483.27,57.3 " />
+          <g
+             id="g10779"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10777"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,492.0841,60.172093)"
+               height="10.03"
+               width="10.03"
+               y="51.189999"
+               x="477.85999" />
+          </g>
+          <polygon
+             id="polygon10781"
+             style="fill:#d1d7da"
+             points="483.27,50.21 483.27,57.3 489.86,63.88 489.86,56.79 " />
+          <g
+             id="g10785"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10783"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="482.77,56.79 489.86,63.88 489.86,56.79 482.77,49.7 " />
+          </g>
+          <polygon
+             id="polygon10787"
+             style="fill:#d1d7da"
+             points="483.27,98.83 489.86,92.25 483.27,85.66 " />
+          <g
+             id="g10791"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10789"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,492.07808,88.524584)"
+               height="10.03"
+               width="10.03"
+               y="79.559998"
+               x="477.85999" />
+          </g>
+          <polygon
+             id="polygon10793"
+             style="fill:#d1d7da"
+             points="483.27,78.57 483.27,85.66 489.86,92.25 489.86,85.15 " />
+          <g
+             id="g10797"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10795"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="482.77,85.15 489.86,92.25 489.86,85.15 482.77,78.06 " />
+          </g>
+          <polygon
+             id="polygon10799"
+             style="fill:#d1d7da"
+             points="483.27,127.19 489.86,120.61 483.27,114.03 " />
+          <g
+             id="g10803"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10801"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,492.07914,116.89415)"
+               height="10.03"
+               width="10.03"
+               y="107.92"
+               x="477.85999" />
+          </g>
+          <polygon
+             id="polygon10805"
+             style="fill:#d1d7da"
+             points="483.27,106.93 483.27,114.02 489.86,120.61 489.86,113.52 " />
+          <g
+             id="g10809"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10807"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="482.77,113.52 489.86,120.61 489.86,113.52 482.77,106.43 " />
+          </g>
+          <polygon
+             id="polygon10811"
+             style="fill:#d1d7da"
+             points="483.27,155.56 489.86,148.97 483.27,142.39 " />
+          <g
+             id="g10815"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10813"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,492.0802,145.26371)"
+               height="10.03"
+               width="10.03"
+               y="136.28999"
+               x="477.85999" />
+          </g>
+          <polygon
+             id="polygon10817"
+             style="fill:#d1d7da"
+             points="483.27,135.3 483.27,142.39 489.86,148.97 489.86,141.88 " />
+          <g
+             id="g10821"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10819"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="482.77,141.88 489.86,148.97 489.86,141.88 482.77,134.79 " />
+          </g>
+          <polygon
+             id="polygon10823"
+             style="fill:#d1d7da"
+             points="483.27,166.7 486.31,166.7 483.27,163.66 " />
+          <g
+             id="g10827"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10825"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="482.77,170.24 489.86,177.34 489.86,170.24 482.77,163.15 " />
+          </g>
+          <rect
+             id="rect10829"
+             style="fill:#d1d7da"
+             transform="rotate(-45,513.35843,17.619975)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="499.13" />
+          <rect
+             id="rect10831"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,513.35843,17.619975)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="499.13" />
+          <polygon
+             id="polygon10833"
+             style="fill:#d1d7da"
+             points="496.95,21.34 504.04,14.24 504.04,10.7 500.5,10.7 496.95,14.24 " />
+          <g
+             id="g10837"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10835"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="504.04,14.24 496.95,21.34 496.95,14.24 504.04,7.15 " />
+          </g>
+          <polygon
+             id="polygon10839"
+             style="fill:#d1d7da"
+             points="511.13,21.34 511.13,14.24 507.59,10.7 504.04,10.7 504.04,14.24 " />
+          <g
+             id="g10843"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10841"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="504.04,14.24 511.13,21.34 511.13,14.24 504.04,7.15 " />
+          </g>
+          <rect
+             id="rect10845"
+             style="fill:#d1d7da"
+             transform="rotate(-45,513.34742,45.984537)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="499.13" />
+          <rect
+             id="rect10847"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,513.34742,45.984537)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="499.13" />
+          <polygon
+             id="polygon10849"
+             style="fill:#d1d7da"
+             points="504.04,42.61 496.95,49.7 496.95,42.61 504.04,35.52 " />
+          <polygon
+             id="polygon10851"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,42.61 496.95,49.7 496.95,42.61 504.04,35.52 " />
+          <polygon
+             id="polygon10853"
+             style="fill:#d1d7da"
+             points="504.04,42.61 511.13,49.7 511.13,42.61 504.04,35.52 " />
+          <polygon
+             id="polygon10855"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,42.61 511.13,49.7 511.13,42.61 504.04,35.52 " />
+          <rect
+             id="rect10857"
+             style="fill:#d1d7da"
+             transform="rotate(-45,513.35348,74.342028)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="499.13" />
+          <rect
+             id="rect10859"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,513.35348,74.342028)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="499.13" />
+          <polygon
+             id="polygon10861"
+             style="fill:#d1d7da"
+             points="504.04,70.97 496.95,78.06 496.95,70.97 504.04,63.88 " />
+          <polygon
+             id="polygon10863"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,70.97 496.95,78.06 496.95,70.97 504.04,63.88 " />
+          <polygon
+             id="polygon10865"
+             style="fill:#d1d7da"
+             points="504.04,70.97 511.13,78.06 511.13,70.97 504.04,63.88 " />
+          <polygon
+             id="polygon10867"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,70.97 511.13,78.06 511.13,70.97 504.04,63.88 " />
+          <rect
+             id="rect10869"
+             style="fill:#d1d7da"
+             transform="rotate(-45,513.35453,102.71159)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="499.13" />
+          <rect
+             id="rect10871"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,513.35453,102.71159)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="499.13" />
+          <polygon
+             id="polygon10873"
+             style="fill:#d1d7da"
+             points="504.04,99.34 496.95,106.43 496.95,99.34 504.04,92.25 " />
+          <polygon
+             id="polygon10875"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,99.34 496.95,106.43 496.95,99.34 504.04,92.25 " />
+          <polygon
+             id="polygon10877"
+             style="fill:#d1d7da"
+             points="504.04,99.34 511.13,106.43 511.13,99.34 504.04,92.25 " />
+          <polygon
+             id="polygon10879"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,99.34 511.13,106.43 511.13,99.34 504.04,92.25 " />
+          <rect
+             id="rect10881"
+             style="fill:#d1d7da"
+             transform="rotate(-45,513.35559,131.08115)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="499.13" />
+          <rect
+             id="rect10883"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,513.35559,131.08115)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="499.13" />
+          <polygon
+             id="polygon10885"
+             style="fill:#d1d7da"
+             points="504.04,127.7 496.95,134.79 496.95,127.7 504.04,120.61 " />
+          <polygon
+             id="polygon10887"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,127.7 496.95,134.79 496.95,127.7 504.04,120.61 " />
+          <polygon
+             id="polygon10889"
+             style="fill:#d1d7da"
+             points="504.04,127.7 511.13,134.79 511.13,127.7 504.04,120.61 " />
+          <polygon
+             id="polygon10891"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,127.7 511.13,134.79 511.13,127.7 504.04,120.61 " />
+          <polygon
+             id="polygon10893"
+             style="fill:#d1d7da"
+             points="507.59,166.7 511.13,163.15 504.04,156.06 496.95,163.15 500.5,166.7 " />
+          <g
+             id="g10897"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10895"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,513.34958,159.43364)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="499.13" />
+          </g>
+          <polygon
+             id="polygon10899"
+             style="fill:#d1d7da"
+             points="504.04,156.06 496.95,163.15 496.95,156.06 504.04,148.97 " />
+          <polygon
+             id="polygon10901"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,156.06 496.95,163.15 496.95,156.06 504.04,148.97 " />
+          <polygon
+             id="polygon10903"
+             style="fill:#d1d7da"
+             points="504.04,156.06 511.13,163.15 511.13,156.06 504.04,148.97 " />
+          <polygon
+             id="polygon10905"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="504.04,156.06 511.13,163.15 511.13,156.06 504.04,148.97 " />
+          <polygon
+             id="polygon10907"
+             style="fill:#d1d7da"
+             points="507.59,10.7 511.13,14.24 514.68,10.7 " />
+          <g
+             id="g10911"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect10909"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,520.44654,3.4439828)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="506.22" />
+          </g>
+          <rect
+             id="rect10913"
+             style="fill:#d1d7da"
+             transform="rotate(-45,520.4526,31.801474)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="506.22" />
+          <rect
+             id="rect10915"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,520.4526,31.801474)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="506.22" />
+          <polygon
+             id="polygon10917"
+             style="fill:#d1d7da"
+             points="511.13,28.43 504.04,35.52 504.04,28.43 511.13,21.34 " />
+          <polygon
+             id="polygon10919"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,28.43 504.04,35.52 504.04,28.43 511.13,21.34 " />
+          <polygon
+             id="polygon10921"
+             style="fill:#d1d7da"
+             points="511.13,28.43 518.22,35.52 518.22,28.43 511.13,21.34 " />
+          <polygon
+             id="polygon10923"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,28.43 518.22,35.52 518.22,28.43 511.13,21.34 " />
+          <rect
+             id="rect10925"
+             style="fill:#d1d7da"
+             transform="rotate(-45,520.44159,60.166036)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="506.22" />
+          <rect
+             id="rect10927"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,520.44159,60.166036)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="506.22" />
+          <polygon
+             id="polygon10929"
+             style="fill:#d1d7da"
+             points="511.13,56.79 504.04,63.88 504.04,56.79 511.13,49.7 " />
+          <polygon
+             id="polygon10931"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,56.79 504.04,63.88 504.04,56.79 511.13,49.7 " />
+          <polygon
+             id="polygon10933"
+             style="fill:#d1d7da"
+             points="511.13,56.79 518.22,63.88 518.22,56.79 511.13,49.7 " />
+          <polygon
+             id="polygon10935"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,56.79 518.22,63.88 518.22,56.79 511.13,49.7 " />
+          <rect
+             id="rect10937"
+             style="fill:#d1d7da"
+             transform="rotate(-45,520.44265,88.535598)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="506.22" />
+          <rect
+             id="rect10939"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,520.44265,88.535598)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="506.22" />
+          <polygon
+             id="polygon10941"
+             style="fill:#d1d7da"
+             points="511.13,85.15 504.04,92.25 504.04,85.15 511.13,78.06 " />
+          <polygon
+             id="polygon10943"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,85.15 504.04,92.25 504.04,85.15 511.13,78.06 " />
+          <polygon
+             id="polygon10945"
+             style="fill:#d1d7da"
+             points="511.13,85.15 518.22,92.25 518.22,85.15 511.13,78.06 " />
+          <polygon
+             id="polygon10947"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,85.15 518.22,92.25 518.22,85.15 511.13,78.06 " />
+          <rect
+             id="rect10949"
+             style="fill:#d1d7da"
+             transform="rotate(-45,520.4487,116.89309)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="506.22" />
+          <rect
+             id="rect10951"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,520.4487,116.89309)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="506.22" />
+          <polygon
+             id="polygon10953"
+             style="fill:#d1d7da"
+             points="511.13,113.52 504.04,120.61 504.04,113.52 511.13,106.43 " />
+          <polygon
+             id="polygon10955"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,113.52 504.04,120.61 504.04,113.52 511.13,106.43 " />
+          <polygon
+             id="polygon10957"
+             style="fill:#d1d7da"
+             points="511.13,113.52 518.22,120.61 518.22,113.52 511.13,106.43 " />
+          <polygon
+             id="polygon10959"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,113.52 518.22,120.61 518.22,113.52 511.13,106.43 " />
+          <rect
+             id="rect10961"
+             style="fill:#d1d7da"
+             transform="rotate(-45,520.43769,145.25765)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="506.22" />
+          <rect
+             id="rect10963"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,520.43769,145.25765)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="506.22" />
+          <polygon
+             id="polygon10965"
+             style="fill:#d1d7da"
+             points="511.13,141.88 504.04,148.97 504.04,141.88 511.13,134.79 " />
+          <polygon
+             id="polygon10967"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,141.88 504.04,148.97 504.04,141.88 511.13,134.79 " />
+          <polygon
+             id="polygon10969"
+             style="fill:#d1d7da"
+             points="511.13,141.88 518.22,148.97 518.22,141.88 511.13,134.79 " />
+          <polygon
+             id="polygon10971"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="511.13,141.88 518.22,148.97 518.22,141.88 511.13,134.79 " />
+          <polygon
+             id="polygon10973"
+             style="fill:#d1d7da"
+             points="507.59,166.7 511.13,166.7 511.13,163.15 " />
+          <g
+             id="g10977"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10975"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="511.13,170.24 504.04,177.34 504.04,170.24 511.13,163.15 " />
+          </g>
+          <polygon
+             id="polygon10979"
+             style="fill:#d1d7da"
+             points="511.13,166.7 514.68,166.7 511.13,163.15 " />
+          <g
+             id="g10983"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10981"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="511.13,170.24 518.22,177.34 518.22,170.24 511.13,163.15 " />
+          </g>
+          <rect
+             id="rect10985"
+             style="fill:#d1d7da"
+             transform="rotate(-45,527.54071,17.625482)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="513.31" />
+          <rect
+             id="rect10987"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,527.54071,17.625482)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="513.31" />
+          <polygon
+             id="polygon10989"
+             style="fill:#d1d7da"
+             points="511.13,21.34 518.22,14.24 518.22,10.7 514.68,10.7 511.13,14.24 " />
+          <g
+             id="g10993"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10991"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="518.22,14.24 511.13,21.34 511.13,14.24 518.22,7.15 " />
+          </g>
+          <polygon
+             id="polygon10995"
+             style="fill:#d1d7da"
+             points="525.31,21.34 525.31,14.24 521.77,10.7 518.22,10.7 518.22,14.24 " />
+          <g
+             id="g10999"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon10997"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="518.22,14.24 525.31,21.34 525.31,14.24 518.22,7.15 " />
+          </g>
+          <rect
+             id="rect11001"
+             style="fill:#d1d7da"
+             transform="rotate(-45,527.5347,45.977973)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="513.31" />
+          <rect
+             id="rect11003"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,527.5347,45.977973)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="513.31" />
+          <polygon
+             id="polygon11005"
+             style="fill:#d1d7da"
+             points="518.22,42.61 511.13,49.7 511.13,42.61 518.22,35.52 " />
+          <polygon
+             id="polygon11007"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,42.61 511.13,49.7 511.13,42.61 518.22,35.52 " />
+          <polygon
+             id="polygon11009"
+             style="fill:#d1d7da"
+             points="518.22,42.61 525.31,49.7 525.31,42.61 518.22,35.52 " />
+          <polygon
+             id="polygon11011"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,42.61 525.31,49.7 525.31,42.61 518.22,35.52 " />
+          <rect
+             id="rect11013"
+             style="fill:#d1d7da"
+             transform="rotate(-45,527.53576,74.347535)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="513.31" />
+          <rect
+             id="rect11015"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,527.53576,74.347535)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="513.31" />
+          <polygon
+             id="polygon11017"
+             style="fill:#d1d7da"
+             points="518.22,70.97 511.13,78.06 511.13,70.97 518.22,63.88 " />
+          <polygon
+             id="polygon11019"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,70.97 511.13,78.06 511.13,70.97 518.22,63.88 " />
+          <polygon
+             id="polygon11021"
+             style="fill:#d1d7da"
+             points="518.22,70.97 525.31,78.06 525.31,70.97 518.22,63.88 " />
+          <polygon
+             id="polygon11023"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,70.97 525.31,78.06 525.31,70.97 518.22,63.88 " />
+          <rect
+             id="rect11025"
+             style="fill:#d1d7da"
+             transform="rotate(-45,527.53681,102.7171)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="513.31" />
+          <rect
+             id="rect11027"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,527.53681,102.7171)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="513.31" />
+          <polygon
+             id="polygon11029"
+             style="fill:#d1d7da"
+             points="518.22,99.34 511.13,106.43 511.13,99.34 518.22,92.25 " />
+          <polygon
+             id="polygon11031"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,99.34 511.13,106.43 511.13,99.34 518.22,92.25 " />
+          <polygon
+             id="polygon11033"
+             style="fill:#d1d7da"
+             points="518.22,99.34 525.31,106.43 525.31,99.34 518.22,92.25 " />
+          <polygon
+             id="polygon11035"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,99.34 525.31,106.43 525.31,99.34 518.22,92.25 " />
+          <rect
+             id="rect11037"
+             style="fill:#d1d7da"
+             transform="rotate(-45,527.54287,131.07459)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="513.31" />
+          <rect
+             id="rect11039"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,527.54287,131.07459)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="513.31" />
+          <polygon
+             id="polygon11041"
+             style="fill:#d1d7da"
+             points="518.22,127.7 511.13,134.79 511.13,127.7 518.22,120.61 " />
+          <polygon
+             id="polygon11043"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,127.7 511.13,134.79 511.13,127.7 518.22,120.61 " />
+          <polygon
+             id="polygon11045"
+             style="fill:#d1d7da"
+             points="518.22,127.7 525.31,134.79 525.31,127.7 518.22,120.61 " />
+          <polygon
+             id="polygon11047"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,127.7 525.31,134.79 525.31,127.7 518.22,120.61 " />
+          <polygon
+             id="polygon11049"
+             style="fill:#d1d7da"
+             points="521.77,166.7 525.31,163.15 518.22,156.06 511.13,163.15 514.68,166.7 " />
+          <g
+             id="g11053"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11051"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,527.53186,159.43915)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="513.31" />
+          </g>
+          <polygon
+             id="polygon11055"
+             style="fill:#d1d7da"
+             points="518.22,156.06 511.13,163.15 511.13,156.06 518.22,148.97 " />
+          <polygon
+             id="polygon11057"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,156.06 511.13,163.15 511.13,156.06 518.22,148.97 " />
+          <polygon
+             id="polygon11059"
+             style="fill:#d1d7da"
+             points="518.22,156.06 525.31,163.15 525.31,156.06 518.22,148.97 " />
+          <polygon
+             id="polygon11061"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="518.22,156.06 525.31,163.15 525.31,156.06 518.22,148.97 " />
+          <polygon
+             id="polygon11063"
+             style="fill:#d1d7da"
+             points="521.77,10.7 525.31,14.24 528.86,10.7 " />
+          <g
+             id="g11067"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11065"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,534.63383,3.4374186)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="520.40002" />
+          </g>
+          <rect
+             id="rect11069"
+             style="fill:#d1d7da"
+             transform="rotate(-45,534.62281,31.801981)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="520.40002" />
+          <rect
+             id="rect11071"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,534.62281,31.801981)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="520.40002" />
+          <polygon
+             id="polygon11073"
+             style="fill:#d1d7da"
+             points="525.31,28.43 518.22,35.52 518.22,28.43 525.31,21.34 " />
+          <polygon
+             id="polygon11075"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,28.43 518.22,35.52 518.22,28.43 525.31,21.34 " />
+          <polygon
+             id="polygon11077"
+             style="fill:#d1d7da"
+             points="525.31,28.43 532.4,35.52 532.4,28.43 525.31,21.34 " />
+          <polygon
+             id="polygon11079"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,28.43 532.4,35.52 532.4,28.43 525.31,21.34 " />
+          <rect
+             id="rect11081"
+             style="fill:#d1d7da"
+             transform="rotate(-45,534.62387,60.171543)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="520.40002" />
+          <rect
+             id="rect11083"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,534.62387,60.171543)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="520.40002" />
+          <polygon
+             id="polygon11085"
+             style="fill:#d1d7da"
+             points="525.31,56.79 518.22,63.88 518.22,56.79 525.31,49.7 " />
+          <polygon
+             id="polygon11087"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,56.79 518.22,63.88 518.22,56.79 525.31,49.7 " />
+          <polygon
+             id="polygon11089"
+             style="fill:#d1d7da"
+             points="525.31,56.79 532.4,63.88 532.4,56.79 525.31,49.7 " />
+          <polygon
+             id="polygon11091"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,56.79 532.4,63.88 532.4,56.79 525.31,49.7 " />
+          <rect
+             id="rect11093"
+             style="fill:#d1d7da"
+             transform="rotate(-45,534.62993,88.529034)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="520.40002" />
+          <rect
+             id="rect11095"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,534.62993,88.529034)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="520.40002" />
+          <polygon
+             id="polygon11097"
+             style="fill:#d1d7da"
+             points="525.31,85.15 518.22,92.25 518.22,85.15 525.31,78.06 " />
+          <polygon
+             id="polygon11099"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,85.15 518.22,92.25 518.22,85.15 525.31,78.06 " />
+          <polygon
+             id="polygon11101"
+             style="fill:#d1d7da"
+             points="525.31,85.15 532.4,92.25 532.4,85.15 525.31,78.06 " />
+          <polygon
+             id="polygon11103"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,85.15 532.4,92.25 532.4,85.15 525.31,78.06 " />
+          <rect
+             id="rect11105"
+             style="fill:#d1d7da"
+             transform="rotate(-45,534.63098,116.8986)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="520.40002" />
+          <rect
+             id="rect11107"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,534.63098,116.8986)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="520.40002" />
+          <polygon
+             id="polygon11109"
+             style="fill:#d1d7da"
+             points="525.31,113.52 518.22,120.61 518.22,113.52 525.31,106.43 " />
+          <polygon
+             id="polygon11111"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,113.52 518.22,120.61 518.22,113.52 525.31,106.43 " />
+          <polygon
+             id="polygon11113"
+             style="fill:#d1d7da"
+             points="525.31,113.52 532.4,120.61 532.4,113.52 525.31,106.43 " />
+          <polygon
+             id="polygon11115"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,113.52 532.4,120.61 532.4,113.52 525.31,106.43 " />
+          <rect
+             id="rect11117"
+             style="fill:#d1d7da"
+             transform="rotate(-45,534.62497,145.25109)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="520.40002" />
+          <rect
+             id="rect11119"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,534.62497,145.25109)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="520.40002" />
+          <polygon
+             id="polygon11121"
+             style="fill:#d1d7da"
+             points="525.31,141.88 518.22,148.97 518.22,141.88 525.31,134.79 " />
+          <polygon
+             id="polygon11123"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,141.88 518.22,148.97 518.22,141.88 525.31,134.79 " />
+          <polygon
+             id="polygon11125"
+             style="fill:#d1d7da"
+             points="525.31,141.88 532.4,148.97 532.4,141.88 525.31,134.79 " />
+          <polygon
+             id="polygon11127"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="525.31,141.88 532.4,148.97 532.4,141.88 525.31,134.79 " />
+          <polygon
+             id="polygon11129"
+             style="fill:#d1d7da"
+             points="521.77,166.7 525.31,166.7 525.31,163.15 " />
+          <g
+             id="g11133"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11131"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="525.31,170.24 518.22,177.34 518.22,170.24 525.31,163.15 " />
+          </g>
+          <polygon
+             id="polygon11135"
+             style="fill:#d1d7da"
+             points="525.31,166.7 528.86,166.7 525.31,163.15 " />
+          <g
+             id="g11139"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11137"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="525.31,170.24 532.4,177.34 532.4,170.24 525.31,163.15 " />
+          </g>
+          <rect
+             id="rect11141"
+             style="fill:#d1d7da"
+             transform="rotate(-45,541.71592,17.613918)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="527.48999" />
+          <rect
+             id="rect11143"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,541.71592,17.613918)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="527.48999" />
+          <polygon
+             id="polygon11145"
+             style="fill:#d1d7da"
+             points="525.31,21.34 532.4,14.24 532.4,10.7 528.86,10.7 525.31,14.24 " />
+          <g
+             id="g11149"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11147"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="532.4,14.24 525.31,21.34 525.31,14.24 532.4,7.15 " />
+          </g>
+          <polygon
+             id="polygon11151"
+             style="fill:#d1d7da"
+             points="539.5,21.34 539.5,14.24 535.95,10.7 532.4,10.7 532.4,14.24 " />
+          <g
+             id="g11155"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11153"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="532.4,14.24 539.5,21.34 539.5,14.24 532.4,7.15 " />
+          </g>
+          <rect
+             id="rect11157"
+             style="fill:#d1d7da"
+             transform="rotate(-45,541.71698,45.98348)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="527.48999" />
+          <rect
+             id="rect11159"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,541.71698,45.98348)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="527.48999" />
+          <polygon
+             id="polygon11161"
+             style="fill:#d1d7da"
+             points="532.4,42.61 525.31,49.7 525.31,42.61 532.4,35.52 " />
+          <polygon
+             id="polygon11163"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,42.61 525.31,49.7 525.31,42.61 532.4,35.52 " />
+          <polygon
+             id="polygon11165"
+             style="fill:#d1d7da"
+             points="532.4,42.61 539.5,49.7 539.5,42.61 532.4,35.52 " />
+          <polygon
+             id="polygon11167"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,42.61 539.5,49.7 539.5,42.61 532.4,35.52 " />
+          <rect
+             id="rect11169"
+             style="fill:#d1d7da"
+             transform="rotate(-45,541.71804,74.353042)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="527.48999" />
+          <rect
+             id="rect11171"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,541.71804,74.353042)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="527.48999" />
+          <polygon
+             id="polygon11173"
+             style="fill:#d1d7da"
+             points="532.4,70.97 525.31,78.06 525.31,70.97 532.4,63.88 " />
+          <polygon
+             id="polygon11175"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,70.97 525.31,78.06 525.31,70.97 532.4,63.88 " />
+          <polygon
+             id="polygon11177"
+             style="fill:#d1d7da"
+             points="532.4,70.97 539.5,78.06 539.5,70.97 532.4,63.88 " />
+          <polygon
+             id="polygon11179"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,70.97 539.5,78.06 539.5,70.97 532.4,63.88 " />
+          <rect
+             id="rect11181"
+             style="fill:#d1d7da"
+             transform="rotate(-45,541.7241,102.71053)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="527.48999" />
+          <rect
+             id="rect11183"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,541.7241,102.71053)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="527.48999" />
+          <polygon
+             id="polygon11185"
+             style="fill:#d1d7da"
+             points="532.4,99.34 525.31,106.43 525.31,99.34 532.4,92.25 " />
+          <polygon
+             id="polygon11187"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,99.34 525.31,106.43 525.31,99.34 532.4,92.25 " />
+          <polygon
+             id="polygon11189"
+             style="fill:#d1d7da"
+             points="532.4,99.34 539.5,106.43 539.5,99.34 532.4,92.25 " />
+          <polygon
+             id="polygon11191"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,99.34 539.5,106.43 539.5,99.34 532.4,92.25 " />
+          <rect
+             id="rect11193"
+             style="fill:#d1d7da"
+             transform="rotate(-45,541.71308,131.07509)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="527.48999" />
+          <rect
+             id="rect11195"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,541.71308,131.07509)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="527.48999" />
+          <polygon
+             id="polygon11197"
+             style="fill:#d1d7da"
+             points="532.4,127.7 525.31,134.79 525.31,127.7 532.4,120.61 " />
+          <polygon
+             id="polygon11199"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,127.7 525.31,134.79 525.31,127.7 532.4,120.61 " />
+          <polygon
+             id="polygon11201"
+             style="fill:#d1d7da"
+             points="532.4,127.7 539.5,134.79 539.5,127.7 532.4,120.61 " />
+          <polygon
+             id="polygon11203"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,127.7 539.5,134.79 539.5,127.7 532.4,120.61 " />
+          <polygon
+             id="polygon11205"
+             style="fill:#d1d7da"
+             points="535.95,166.7 539.5,163.15 532.4,156.06 525.31,163.15 528.86,166.7 " />
+          <g
+             id="g11209"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11207"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,541.71414,159.44466)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="527.48999" />
+          </g>
+          <polygon
+             id="polygon11211"
+             style="fill:#d1d7da"
+             points="532.4,156.06 525.31,163.15 525.31,156.06 532.4,148.97 " />
+          <polygon
+             id="polygon11213"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,156.06 525.31,163.15 525.31,156.06 532.4,148.97 " />
+          <polygon
+             id="polygon11215"
+             style="fill:#d1d7da"
+             points="532.4,156.06 539.5,163.15 539.5,156.06 532.4,148.97 " />
+          <polygon
+             id="polygon11217"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="532.4,156.06 539.5,163.15 539.5,156.06 532.4,148.97 " />
+          <polygon
+             id="polygon11219"
+             style="fill:#d1d7da"
+             points="535.95,10.7 539.5,14.24 543.04,10.7 " />
+          <g
+             id="g11223"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11221"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,548.80404,3.4379255)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="534.58002" />
+          </g>
+          <rect
+             id="rect11225"
+             style="fill:#d1d7da"
+             transform="rotate(-45,548.80509,31.807488)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="534.58002" />
+          <rect
+             id="rect11227"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,548.80509,31.807488)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="534.58002" />
+          <polygon
+             id="polygon11229"
+             style="fill:#d1d7da"
+             points="539.5,28.43 532.4,35.52 532.4,28.43 539.5,21.34 " />
+          <polygon
+             id="polygon11231"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,28.43 532.4,35.52 532.4,28.43 539.5,21.34 " />
+          <polygon
+             id="polygon11233"
+             style="fill:#d1d7da"
+             points="539.5,28.43 546.59,35.52 546.59,28.43 539.5,21.34 " />
+          <polygon
+             id="polygon11235"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,28.43 546.59,35.52 546.59,28.43 539.5,21.34 " />
+          <rect
+             id="rect11237"
+             style="fill:#d1d7da"
+             transform="rotate(-45,548.81115,60.164978)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="534.58002" />
+          <rect
+             id="rect11239"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,548.81115,60.164978)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="534.58002" />
+          <polygon
+             id="polygon11241"
+             style="fill:#d1d7da"
+             points="539.5,56.79 532.4,63.88 532.4,56.79 539.5,49.7 " />
+          <polygon
+             id="polygon11243"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,56.79 532.4,63.88 532.4,56.79 539.5,49.7 " />
+          <polygon
+             id="polygon11245"
+             style="fill:#d1d7da"
+             points="539.5,56.79 546.59,63.88 546.59,56.79 539.5,49.7 " />
+          <polygon
+             id="polygon11247"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,56.79 546.59,63.88 546.59,56.79 539.5,49.7 " />
+          <rect
+             id="rect11249"
+             style="fill:#d1d7da"
+             transform="rotate(-45,548.81221,88.53454)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="534.58002" />
+          <rect
+             id="rect11251"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,548.81221,88.53454)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="534.58002" />
+          <polygon
+             id="polygon11253"
+             style="fill:#d1d7da"
+             points="539.5,85.15 532.4,92.25 532.4,85.15 539.5,78.06 " />
+          <polygon
+             id="polygon11255"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,85.15 532.4,92.25 532.4,85.15 539.5,78.06 " />
+          <polygon
+             id="polygon11257"
+             style="fill:#d1d7da"
+             points="539.5,85.15 546.59,92.25 546.59,85.15 539.5,78.06 " />
+          <polygon
+             id="polygon11259"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,85.15 546.59,92.25 546.59,85.15 539.5,78.06 " />
+          <rect
+             id="rect11261"
+             style="fill:#d1d7da"
+             transform="rotate(-45,548.80619,116.88703)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="534.58002" />
+          <rect
+             id="rect11263"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,548.80619,116.88703)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="534.58002" />
+          <polygon
+             id="polygon11265"
+             style="fill:#d1d7da"
+             points="539.5,113.52 532.4,120.61 532.4,113.52 539.5,106.43 " />
+          <polygon
+             id="polygon11267"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,113.52 532.4,120.61 532.4,113.52 539.5,106.43 " />
+          <polygon
+             id="polygon11269"
+             style="fill:#d1d7da"
+             points="539.5,113.52 546.59,120.61 546.59,113.52 539.5,106.43 " />
+          <polygon
+             id="polygon11271"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,113.52 546.59,120.61 546.59,113.52 539.5,106.43 " />
+          <rect
+             id="rect11273"
+             style="fill:#d1d7da"
+             transform="rotate(-45,548.80725,145.25659)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="534.58002" />
+          <rect
+             id="rect11275"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,548.80725,145.25659)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="534.58002" />
+          <polygon
+             id="polygon11277"
+             style="fill:#d1d7da"
+             points="539.5,141.88 532.4,148.97 532.4,141.88 539.5,134.79 " />
+          <polygon
+             id="polygon11279"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,141.88 532.4,148.97 532.4,141.88 539.5,134.79 " />
+          <polygon
+             id="polygon11281"
+             style="fill:#d1d7da"
+             points="539.5,141.88 546.59,148.97 546.59,141.88 539.5,134.79 " />
+          <polygon
+             id="polygon11283"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="539.5,141.88 546.59,148.97 546.59,141.88 539.5,134.79 " />
+          <polygon
+             id="polygon11285"
+             style="fill:#d1d7da"
+             points="535.95,166.7 539.5,166.7 539.5,163.15 " />
+          <g
+             id="g11289"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11287"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="539.5,170.24 532.4,177.34 532.4,170.24 539.5,163.15 " />
+          </g>
+          <polygon
+             id="polygon11291"
+             style="fill:#d1d7da"
+             points="539.5,166.7 543.04,166.7 539.5,163.15 " />
+          <g
+             id="g11295"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11293"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="539.5,170.24 546.59,177.34 546.59,170.24 539.5,163.15 " />
+          </g>
+          <rect
+             id="rect11297"
+             style="fill:#d1d7da"
+             transform="rotate(-45,555.8982,17.619424)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="541.66998" />
+          <rect
+             id="rect11299"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,555.8982,17.619424)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="541.66998" />
+          <polygon
+             id="polygon11301"
+             style="fill:#d1d7da"
+             points="539.5,21.34 546.59,14.24 546.59,10.7 543.04,10.7 539.5,14.24 " />
+          <g
+             id="g11305"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11303"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="546.59,14.24 539.5,21.34 539.5,14.24 546.59,7.15 " />
+          </g>
+          <polygon
+             id="polygon11307"
+             style="fill:#d1d7da"
+             points="553.68,21.34 553.68,14.24 550.13,10.7 546.59,10.7 546.59,14.24 " />
+          <g
+             id="g11311"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11309"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="546.59,14.24 553.68,21.34 553.68,14.24 546.59,7.15 " />
+          </g>
+          <rect
+             id="rect11313"
+             style="fill:#d1d7da"
+             transform="rotate(-45,555.89926,45.988986)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="541.66998" />
+          <rect
+             id="rect11315"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,555.89926,45.988986)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="541.66998" />
+          <polygon
+             id="polygon11317"
+             style="fill:#d1d7da"
+             points="546.59,42.61 539.5,49.7 539.5,42.61 546.59,35.52 " />
+          <polygon
+             id="polygon11319"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,42.61 539.5,49.7 539.5,42.61 546.59,35.52 " />
+          <polygon
+             id="polygon11321"
+             style="fill:#d1d7da"
+             points="546.59,42.61 553.68,49.7 553.68,42.61 546.59,35.52 " />
+          <polygon
+             id="polygon11323"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,42.61 553.68,49.7 553.68,42.61 546.59,35.52 " />
+          <rect
+             id="rect11325"
+             style="fill:#d1d7da"
+             transform="rotate(-45,555.90532,74.346477)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="541.66998" />
+          <rect
+             id="rect11327"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,555.90532,74.346477)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="541.66998" />
+          <polygon
+             id="polygon11329"
+             style="fill:#d1d7da"
+             points="546.59,70.97 539.5,78.06 539.5,70.97 546.59,63.88 " />
+          <polygon
+             id="polygon11331"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,70.97 539.5,78.06 539.5,70.97 546.59,63.88 " />
+          <polygon
+             id="polygon11333"
+             style="fill:#d1d7da"
+             points="546.59,70.97 553.68,78.06 553.68,70.97 546.59,63.88 " />
+          <polygon
+             id="polygon11335"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,70.97 553.68,78.06 553.68,70.97 546.59,63.88 " />
+          <rect
+             id="rect11337"
+             style="fill:#d1d7da"
+             transform="rotate(-45,555.89431,102.71104)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="541.66998" />
+          <rect
+             id="rect11339"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,555.89431,102.71104)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="541.66998" />
+          <polygon
+             id="polygon11341"
+             style="fill:#d1d7da"
+             points="546.59,99.34 539.5,106.43 539.5,99.34 546.59,92.25 " />
+          <polygon
+             id="polygon11343"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,99.34 539.5,106.43 539.5,99.34 546.59,92.25 " />
+          <polygon
+             id="polygon11345"
+             style="fill:#d1d7da"
+             points="553.68,99.34 546.59,92.25 546.59,99.34 553.68,106.43 " />
+          <polygon
+             id="polygon11347"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,99.34 553.68,106.43 553.68,99.34 546.59,92.25 " />
+          <rect
+             id="rect11349"
+             style="fill:#d1d7da"
+             transform="rotate(-45,555.89536,131.0806)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="541.66998" />
+          <rect
+             id="rect11351"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,555.89536,131.0806)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="541.66998" />
+          <polygon
+             id="polygon11353"
+             style="fill:#d1d7da"
+             points="546.59,127.7 539.5,134.79 539.5,127.7 546.59,120.61 " />
+          <polygon
+             id="polygon11355"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,127.7 539.5,134.79 539.5,127.7 546.59,120.61 " />
+          <polygon
+             id="polygon11357"
+             style="fill:#d1d7da"
+             points="546.59,127.7 553.68,134.79 553.68,127.7 546.59,120.61 " />
+          <polygon
+             id="polygon11359"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,127.7 553.68,134.79 553.68,127.7 546.59,120.61 " />
+          <polygon
+             id="polygon11361"
+             style="fill:#d1d7da"
+             points="550.13,166.7 553.68,163.15 546.59,156.06 539.5,163.15 543.04,166.7 " />
+          <g
+             id="g11365"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11363"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,555.90142,159.43809)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="541.66998" />
+          </g>
+          <polygon
+             id="polygon11367"
+             style="fill:#d1d7da"
+             points="546.59,156.06 539.5,163.15 539.5,156.06 546.59,148.97 " />
+          <polygon
+             id="polygon11369"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,156.06 539.5,163.15 539.5,156.06 546.59,148.97 " />
+          <polygon
+             id="polygon11371"
+             style="fill:#d1d7da"
+             points="546.59,156.06 553.68,163.15 553.68,156.06 546.59,148.97 " />
+          <polygon
+             id="polygon11373"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="546.59,156.06 553.68,163.15 553.68,156.06 546.59,148.97 " />
+          <polygon
+             id="polygon11375"
+             style="fill:#d1d7da"
+             points="550.13,10.7 553.68,14.24 557.22,10.7 " />
+          <g
+             id="g11379"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11377"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,562.98632,3.4434323)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="548.76001" />
+          </g>
+          <rect
+             id="rect11381"
+             style="fill:#d1d7da"
+             transform="rotate(-45,562.99237,31.800923)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="548.76001" />
+          <rect
+             id="rect11383"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,562.99237,31.800923)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="548.76001" />
+          <polygon
+             id="polygon11385"
+             style="fill:#d1d7da"
+             points="553.68,28.43 546.59,35.52 546.59,28.43 553.68,21.34 " />
+          <polygon
+             id="polygon11387"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,28.43 546.59,35.52 546.59,28.43 553.68,21.34 " />
+          <polygon
+             id="polygon11389"
+             style="fill:#d1d7da"
+             points="553.68,28.43 560.77,35.52 560.77,28.43 553.68,21.34 " />
+          <polygon
+             id="polygon11391"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,28.43 560.77,35.52 560.77,28.43 553.68,21.34 " />
+          <rect
+             id="rect11393"
+             style="fill:#d1d7da"
+             transform="rotate(-45,562.99343,60.170485)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="548.76001" />
+          <rect
+             id="rect11395"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,562.99343,60.170485)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="548.76001" />
+          <polygon
+             id="polygon11397"
+             style="fill:#d1d7da"
+             points="553.68,56.79 546.59,63.88 546.59,56.79 553.68,49.7 " />
+          <polygon
+             id="polygon11399"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,56.79 546.59,63.88 546.59,56.79 553.68,49.7 " />
+          <polygon
+             id="polygon11401"
+             style="fill:#d1d7da"
+             points="553.68,56.79 560.77,63.88 560.77,56.79 553.68,49.7 " />
+          <polygon
+             id="polygon11403"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,56.79 560.77,63.88 560.77,56.79 553.68,49.7 " />
+          <rect
+             id="rect11405"
+             style="fill:#d1d7da"
+             transform="rotate(-45,562.98742,88.522976)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="548.76001" />
+          <rect
+             id="rect11407"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,562.98742,88.522976)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="548.76001" />
+          <polygon
+             id="polygon11409"
+             style="fill:#d1d7da"
+             points="553.68,85.15 546.59,92.25 546.59,85.15 553.68,78.06 " />
+          <polygon
+             id="polygon11411"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,85.15 546.59,92.25 546.59,85.15 553.68,78.06 " />
+          <polygon
+             id="polygon11413"
+             style="fill:#d1d7da"
+             points="553.68,85.15 560.77,92.25 560.77,85.15 553.68,78.06 " />
+          <polygon
+             id="polygon11415"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,85.15 560.77,92.25 560.77,85.15 553.68,78.06 " />
+          <rect
+             id="rect11417"
+             style="fill:#d1d7da"
+             transform="rotate(-45,562.98847,116.89254)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="548.76001" />
+          <rect
+             id="rect11419"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,562.98847,116.89254)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="548.76001" />
+          <polygon
+             id="polygon11421"
+             style="fill:#d1d7da"
+             points="553.68,113.52 546.59,120.61 546.59,113.52 553.68,106.43 " />
+          <polygon
+             id="polygon11423"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,113.52 546.59,120.61 546.59,113.52 553.68,106.43 " />
+          <polygon
+             id="polygon11425"
+             style="fill:#d1d7da"
+             points="553.68,113.52 560.77,120.61 560.77,113.52 553.68,106.43 " />
+          <polygon
+             id="polygon11427"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,113.52 560.77,120.61 560.77,113.52 553.68,106.43 " />
+          <rect
+             id="rect11429"
+             style="fill:#d1d7da"
+             transform="rotate(-45,562.98953,145.2621)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="548.76001" />
+          <rect
+             id="rect11431"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,562.98953,145.2621)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="548.76001" />
+          <polygon
+             id="polygon11433"
+             style="fill:#d1d7da"
+             points="553.68,141.88 546.59,148.97 546.59,141.88 553.68,134.79 " />
+          <polygon
+             id="polygon11435"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,141.88 546.59,148.97 546.59,141.88 553.68,134.79 " />
+          <polygon
+             id="polygon11437"
+             style="fill:#d1d7da"
+             points="553.68,141.88 560.77,148.97 560.77,141.88 553.68,134.79 " />
+          <polygon
+             id="polygon11439"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="553.68,141.88 560.77,148.97 560.77,141.88 553.68,134.79 " />
+          <polygon
+             id="polygon11441"
+             style="fill:#d1d7da"
+             points="550.13,166.7 553.68,166.7 553.68,163.15 " />
+          <g
+             id="g11445"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11443"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="553.68,170.24 546.59,177.34 546.59,170.24 553.68,163.15 " />
+          </g>
+          <polygon
+             id="polygon11447"
+             style="fill:#d1d7da"
+             points="553.68,166.7 557.22,166.7 553.68,163.15 " />
+          <g
+             id="g11451"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11449"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="553.68,170.24 560.77,177.34 560.77,170.24 553.68,163.15 " />
+          </g>
+          <rect
+             id="rect11453"
+             style="fill:#d1d7da"
+             transform="rotate(-45,570.09756,17.61786)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="555.85999" />
+          <rect
+             id="rect11455"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,570.09756,17.61786)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="555.85999" />
+          <polygon
+             id="polygon11457"
+             style="fill:#d1d7da"
+             points="553.68,21.34 560.77,14.24 560.77,10.7 557.22,10.7 553.68,14.24 " />
+          <g
+             id="g11461"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11459"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="560.77,14.24 553.68,21.34 553.68,14.24 560.77,7.15 " />
+          </g>
+          <polygon
+             id="polygon11463"
+             style="fill:#d1d7da"
+             points="567.86,21.34 567.86,14.24 564.31,10.7 560.77,10.7 560.77,14.24 " />
+          <g
+             id="g11467"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11465"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="560.77,14.24 567.86,21.34 567.86,14.24 560.77,7.15 " />
+          </g>
+          <rect
+             id="rect11469"
+             style="fill:#d1d7da"
+             transform="rotate(-45,570.10361,45.975351)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="555.85999" />
+          <rect
+             id="rect11471"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,570.10361,45.975351)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="555.85999" />
+          <polygon
+             id="polygon11473"
+             style="fill:#d1d7da"
+             points="560.77,42.61 553.68,49.7 553.68,42.61 560.77,35.52 " />
+          <polygon
+             id="polygon11475"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,42.61 553.68,49.7 553.68,42.61 560.77,35.52 " />
+          <polygon
+             id="polygon11477"
+             style="fill:#d1d7da"
+             points="560.77,42.61 567.86,49.7 567.86,42.61 560.77,35.52 " />
+          <polygon
+             id="polygon11479"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,42.61 567.86,49.7 567.86,42.61 560.77,35.52 " />
+          <rect
+             id="rect11481"
+             style="fill:#d1d7da"
+             transform="rotate(-45,570.10467,74.344913)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="555.85999" />
+          <rect
+             id="rect11483"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,570.10467,74.344913)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="555.85999" />
+          <polygon
+             id="polygon11485"
+             style="fill:#d1d7da"
+             points="560.77,70.97 553.68,78.06 553.68,70.97 560.77,63.88 " />
+          <polygon
+             id="polygon11487"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,70.97 553.68,78.06 553.68,70.97 560.77,63.88 " />
+          <polygon
+             id="polygon11489"
+             style="fill:#d1d7da"
+             points="560.77,70.97 567.86,78.06 567.86,70.97 560.77,63.88 " />
+          <polygon
+             id="polygon11491"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,70.97 567.86,78.06 567.86,70.97 560.77,63.88 " />
+          <rect
+             id="rect11493"
+             style="fill:#d1d7da"
+             transform="rotate(-45,570.09366,102.70948)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="555.85999" />
+          <rect
+             id="rect11495"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,570.09366,102.70948)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="555.85999" />
+          <polygon
+             id="polygon11497"
+             style="fill:#d1d7da"
+             points="560.77,99.34 553.68,106.43 553.68,99.34 560.77,92.25 " />
+          <polygon
+             id="polygon11499"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,99.34 553.68,106.43 553.68,99.34 560.77,92.25 " />
+          <polygon
+             id="polygon11501"
+             style="fill:#d1d7da"
+             points="560.77,99.34 567.86,106.43 567.86,99.34 560.77,92.25 " />
+          <polygon
+             id="polygon11503"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,99.34 567.86,106.43 567.86,99.34 560.77,92.25 " />
+          <rect
+             id="rect11505"
+             style="fill:#d1d7da"
+             transform="rotate(-45,570.09971,131.06697)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="555.85999" />
+          <rect
+             id="rect11507"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,570.09971,131.06697)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="555.85999" />
+          <polygon
+             id="polygon11509"
+             style="fill:#d1d7da"
+             points="560.77,127.7 553.68,134.79 553.68,127.7 560.77,120.61 " />
+          <polygon
+             id="polygon11511"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,127.7 553.68,134.79 553.68,127.7 560.77,120.61 " />
+          <polygon
+             id="polygon11513"
+             style="fill:#d1d7da"
+             points="560.77,127.7 567.86,134.79 567.86,127.7 560.77,120.61 " />
+          <polygon
+             id="polygon11515"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,127.7 567.86,134.79 567.86,127.7 560.77,120.61 " />
+          <polygon
+             id="polygon11517"
+             style="fill:#d1d7da"
+             points="564.31,166.7 567.86,163.15 560.77,156.06 553.68,163.15 557.22,166.7 " />
+          <g
+             id="g11521"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11519"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,570.10077,159.43653)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="555.85999" />
+          </g>
+          <polygon
+             id="polygon11523"
+             style="fill:#d1d7da"
+             points="560.77,156.06 553.68,163.15 553.68,156.06 560.77,148.97 " />
+          <polygon
+             id="polygon11525"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,156.06 553.68,163.15 553.68,156.06 560.77,148.97 " />
+          <polygon
+             id="polygon11527"
+             style="fill:#d1d7da"
+             points="560.77,156.06 567.86,163.15 567.86,156.06 560.77,148.97 " />
+          <polygon
+             id="polygon11529"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="560.77,156.06 567.86,163.15 567.86,156.06 560.77,148.97 " />
+          <polygon
+             id="polygon11531"
+             style="fill:#d1d7da"
+             points="564.31,10.7 567.86,14.24 571.4,10.7 " />
+          <g
+             id="g11535"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11533"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,577.19067,3.4297971)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="562.95001" />
+          </g>
+          <rect
+             id="rect11537"
+             style="fill:#d1d7da"
+             transform="rotate(-45,577.19173,31.799359)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="562.95001" />
+          <rect
+             id="rect11539"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,577.19173,31.799359)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="562.95001" />
+          <polygon
+             id="polygon11541"
+             style="fill:#d1d7da"
+             points="567.86,28.43 560.77,35.52 560.77,28.43 567.86,21.34 " />
+          <polygon
+             id="polygon11543"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,28.43 560.77,35.52 560.77,28.43 567.86,21.34 " />
+          <polygon
+             id="polygon11545"
+             style="fill:#d1d7da"
+             points="567.86,28.43 574.95,35.52 574.95,28.43 567.86,21.34 " />
+          <polygon
+             id="polygon11547"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,28.43 574.95,35.52 574.95,28.43 567.86,21.34 " />
+          <rect
+             id="rect11549"
+             style="fill:#d1d7da"
+             transform="rotate(-45,577.19278,60.168921)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="562.95001" />
+          <rect
+             id="rect11551"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,577.19278,60.168921)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="562.95001" />
+          <polygon
+             id="polygon11553"
+             style="fill:#d1d7da"
+             points="567.86,56.79 560.77,63.88 560.77,56.79 567.86,49.7 " />
+          <polygon
+             id="polygon11555"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,56.79 560.77,63.88 560.77,56.79 567.86,49.7 " />
+          <polygon
+             id="polygon11557"
+             style="fill:#d1d7da"
+             points="567.86,56.79 574.95,63.88 574.95,56.79 567.86,49.7 " />
+          <polygon
+             id="polygon11559"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,56.79 574.95,63.88 574.95,56.79 567.86,49.7 " />
+          <rect
+             id="rect11561"
+             style="fill:#d1d7da"
+             transform="rotate(-45,577.18677,88.521412)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="562.95001" />
+          <rect
+             id="rect11563"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,577.18677,88.521412)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="562.95001" />
+          <polygon
+             id="polygon11565"
+             style="fill:#d1d7da"
+             points="567.86,85.15 560.77,92.25 560.77,85.15 567.86,78.06 " />
+          <polygon
+             id="polygon11567"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,85.15 560.77,92.25 560.77,85.15 567.86,78.06 " />
+          <polygon
+             id="polygon11569"
+             style="fill:#d1d7da"
+             points="567.86,85.15 574.95,92.25 574.95,85.15 567.86,78.06 " />
+          <polygon
+             id="polygon11571"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,85.15 574.95,92.25 574.95,85.15 567.86,78.06 " />
+          <rect
+             id="rect11573"
+             style="fill:#d1d7da"
+             transform="rotate(-45,577.18783,116.89097)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="562.95001" />
+          <rect
+             id="rect11575"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,577.18783,116.89097)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="562.95001" />
+          <polygon
+             id="polygon11577"
+             style="fill:#d1d7da"
+             points="567.86,113.52 560.77,120.61 560.77,113.52 567.86,106.43 " />
+          <polygon
+             id="polygon11579"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,113.52 560.77,120.61 560.77,113.52 567.86,106.43 " />
+          <polygon
+             id="polygon11581"
+             style="fill:#d1d7da"
+             points="567.86,113.52 574.95,120.61 574.95,113.52 567.86,106.43 " />
+          <polygon
+             id="polygon11583"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,113.52 574.95,120.61 574.95,113.52 567.86,106.43 " />
+          <rect
+             id="rect11585"
+             style="fill:#d1d7da"
+             transform="rotate(-45,577.18888,145.26054)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="562.95001" />
+          <rect
+             id="rect11587"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,577.18888,145.26054)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="562.95001" />
+          <polygon
+             id="polygon11589"
+             style="fill:#d1d7da"
+             points="567.86,141.88 560.77,148.97 560.77,141.88 567.86,134.79 " />
+          <polygon
+             id="polygon11591"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,141.88 560.77,148.97 560.77,141.88 567.86,134.79 " />
+          <polygon
+             id="polygon11593"
+             style="fill:#d1d7da"
+             points="567.86,141.88 574.95,148.97 574.95,141.88 567.86,134.79 " />
+          <polygon
+             id="polygon11595"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="567.86,141.88 574.95,148.97 574.95,141.88 567.86,134.79 " />
+          <polygon
+             id="polygon11597"
+             style="fill:#d1d7da"
+             points="564.31,166.7 567.86,166.7 567.86,163.15 " />
+          <g
+             id="g11601"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11599"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="567.86,170.24 560.77,177.34 560.77,170.24 567.86,163.15 " />
+          </g>
+          <polygon
+             id="polygon11603"
+             style="fill:#d1d7da"
+             points="567.86,166.7 571.4,166.7 567.86,163.15 " />
+          <g
+             id="g11607"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11605"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="567.86,170.24 574.95,177.34 574.95,170.24 567.86,163.15 " />
+          </g>
+          <rect
+             id="rect11609"
+             style="fill:#d1d7da"
+             transform="rotate(-45,584.26777,17.618367)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="570.03998" />
+          <rect
+             id="rect11611"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,584.26777,17.618367)"
+             height="10.03"
+             width="10.03"
+             y="8.6499996"
+             x="570.03998" />
+          <polygon
+             id="polygon11613"
+             style="fill:#d1d7da"
+             points="567.86,21.34 574.95,14.24 574.95,10.7 571.4,10.7 567.86,14.24 " />
+          <g
+             id="g11617"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11615"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="574.95,14.24 567.86,21.34 567.86,14.24 574.95,7.15 " />
+          </g>
+          <polygon
+             id="polygon11619"
+             style="fill:#d1d7da"
+             points="582.04,21.34 582.04,14.24 578.5,10.7 574.95,10.7 574.95,14.24 " />
+          <g
+             id="g11623"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11621"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="574.95,14.24 582.04,21.34 582.04,14.24 574.95,7.15 " />
+          </g>
+          <rect
+             id="rect11625"
+             style="fill:#d1d7da"
+             transform="rotate(-45,584.25675,45.982929)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="570.03998" />
+          <rect
+             id="rect11627"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,584.25675,45.982929)"
+             height="10.03"
+             width="10.03"
+             y="37.009998"
+             x="570.03998" />
+          <polygon
+             id="polygon11629"
+             style="fill:#d1d7da"
+             points="574.95,42.61 567.86,49.7 567.86,42.61 574.95,35.52 " />
+          <polygon
+             id="polygon11631"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,42.61 567.86,49.7 567.86,42.61 574.95,35.52 " />
+          <polygon
+             id="polygon11633"
+             style="fill:#d1d7da"
+             points="574.95,42.61 582.04,49.7 582.04,42.61 574.95,35.52 " />
+          <polygon
+             id="polygon11635"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,42.61 582.04,49.7 582.04,42.61 574.95,35.52 " />
+          <rect
+             id="rect11637"
+             style="fill:#d1d7da"
+             transform="rotate(-45,584.25781,74.352491)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="570.03998" />
+          <rect
+             id="rect11639"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,584.25781,74.352491)"
+             height="10.03"
+             width="10.03"
+             y="65.379997"
+             x="570.03998" />
+          <polygon
+             id="polygon11641"
+             style="fill:#d1d7da"
+             points="574.95,70.97 567.86,78.06 567.86,70.97 574.95,63.88 " />
+          <polygon
+             id="polygon11643"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,70.97 567.86,78.06 567.86,70.97 574.95,63.88 " />
+          <polygon
+             id="polygon11645"
+             style="fill:#d1d7da"
+             points="574.95,70.97 582.04,78.06 582.04,70.97 574.95,63.88 " />
+          <polygon
+             id="polygon11647"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,70.97 582.04,78.06 582.04,70.97 574.95,63.88 " />
+          <rect
+             id="rect11649"
+             style="fill:#d1d7da"
+             transform="rotate(-45,584.26387,102.70998)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="570.03998" />
+          <rect
+             id="rect11651"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,584.26387,102.70998)"
+             height="10.03"
+             width="10.03"
+             y="93.739998"
+             x="570.03998" />
+          <polygon
+             id="polygon11653"
+             style="fill:#d1d7da"
+             points="574.95,99.34 567.86,106.43 567.86,99.34 574.95,92.25 " />
+          <polygon
+             id="polygon11655"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,99.34 567.86,106.43 567.86,99.34 574.95,92.25 " />
+          <polygon
+             id="polygon11657"
+             style="fill:#d1d7da"
+             points="574.95,99.34 582.04,106.43 582.04,99.34 574.95,92.25 " />
+          <polygon
+             id="polygon11659"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,99.34 582.04,106.43 582.04,99.34 574.95,92.25 " />
+          <rect
+             id="rect11661"
+             style="fill:#d1d7da"
+             transform="rotate(-45,584.26492,131.07954)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="570.03998" />
+          <rect
+             id="rect11663"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,584.26492,131.07954)"
+             height="10.03"
+             width="10.03"
+             y="122.1"
+             x="570.03998" />
+          <polygon
+             id="polygon11665"
+             style="fill:#d1d7da"
+             points="574.95,127.7 567.86,134.79 567.86,127.7 574.95,120.61 " />
+          <polygon
+             id="polygon11667"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,127.7 567.86,134.79 567.86,127.7 574.95,120.61 " />
+          <polygon
+             id="polygon11669"
+             style="fill:#d1d7da"
+             points="574.95,127.7 582.04,134.79 582.04,127.7 574.95,120.61 " />
+          <polygon
+             id="polygon11671"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,127.7 582.04,134.79 582.04,127.7 574.95,120.61 " />
+          <polygon
+             id="polygon11673"
+             style="fill:#d1d7da"
+             points="578.5,166.7 582.04,163.15 574.95,156.06 567.86,163.15 571.4,166.7 " />
+          <g
+             id="g11677"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11675"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,584.25891,159.43204)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="570.03998" />
+          </g>
+          <polygon
+             id="polygon11679"
+             style="fill:#d1d7da"
+             points="574.95,156.06 567.86,163.15 567.86,156.06 574.95,148.97 " />
+          <polygon
+             id="polygon11681"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,156.06 567.86,163.15 567.86,156.06 574.95,148.97 " />
+          <polygon
+             id="polygon11683"
+             style="fill:#d1d7da"
+             points="574.95,156.06 582.04,163.15 582.04,156.06 574.95,148.97 " />
+          <polygon
+             id="polygon11685"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="574.95,156.06 582.04,163.15 582.04,156.06 574.95,148.97 " />
+          <polygon
+             id="polygon11687"
+             style="fill:#d1d7da"
+             points="578.5,10.7 582.04,14.24 585.59,10.7 " />
+          <g
+             id="g11691"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11689"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,591.33881,3.449446)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="577.13" />
+          </g>
+          <rect
+             id="rect11693"
+             style="fill:#d1d7da"
+             transform="rotate(-45,591.33279,31.801937)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="577.13" />
+          <rect
+             id="rect11695"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,591.33279,31.801937)"
+             height="10.03"
+             width="10.03"
+             y="22.83"
+             x="577.13" />
+          <polygon
+             id="polygon11697"
+             style="fill:#d1d7da"
+             points="582.04,28.43 574.95,35.52 574.95,28.43 582.04,21.34 " />
+          <polygon
+             id="polygon11699"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,28.43 574.95,35.52 574.95,28.43 582.04,21.34 " />
+          <polygon
+             id="polygon11701"
+             style="fill:#d1d7da"
+             points="582.04,28.43 589.13,35.52 589.13,28.43 582.04,21.34 " />
+          <polygon
+             id="polygon11703"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,28.43 589.13,35.52 589.13,28.43 582.04,21.34 " />
+          <rect
+             id="rect11705"
+             style="fill:#d1d7da"
+             transform="rotate(-45,591.33385,60.171499)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="577.13" />
+          <rect
+             id="rect11707"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,591.33385,60.171499)"
+             height="10.03"
+             width="10.03"
+             y="51.189999"
+             x="577.13" />
+          <polygon
+             id="polygon11709"
+             style="fill:#d1d7da"
+             points="582.04,56.79 574.95,63.88 574.95,56.79 582.04,49.7 " />
+          <polygon
+             id="polygon11711"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,56.79 574.95,63.88 574.95,56.79 582.04,49.7 " />
+          <polygon
+             id="polygon11713"
+             style="fill:#d1d7da"
+             points="582.04,56.79 589.13,63.88 589.13,56.79 582.04,49.7 " />
+          <polygon
+             id="polygon11715"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,56.79 589.13,63.88 589.13,56.79 582.04,49.7 " />
+          <rect
+             id="rect11717"
+             style="fill:#d1d7da"
+             transform="rotate(-45,591.33491,88.541061)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="577.13" />
+          <rect
+             id="rect11719"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,591.33491,88.541061)"
+             height="10.03"
+             width="10.03"
+             y="79.559998"
+             x="577.13" />
+          <polygon
+             id="polygon11721"
+             style="fill:#d1d7da"
+             points="582.04,85.15 574.95,92.25 574.95,85.15 582.04,78.06 " />
+          <polygon
+             id="polygon11723"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,85.15 574.95,92.25 574.95,85.15 582.04,78.06 " />
+          <polygon
+             id="polygon11725"
+             style="fill:#d1d7da"
+             points="582.04,85.15 589.13,92.25 589.13,85.15 582.04,78.06 " />
+          <polygon
+             id="polygon11727"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,85.15 589.13,92.25 589.13,85.15 582.04,78.06 " />
+          <rect
+             id="rect11729"
+             style="fill:#d1d7da"
+             transform="rotate(-45,591.34097,116.89855)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="577.13" />
+          <rect
+             id="rect11731"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,591.34097,116.89855)"
+             height="10.03"
+             width="10.03"
+             y="107.92"
+             x="577.13" />
+          <polygon
+             id="polygon11733"
+             style="fill:#d1d7da"
+             points="582.04,113.52 574.95,120.61 574.95,113.52 582.04,106.43 " />
+          <polygon
+             id="polygon11735"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,113.52 574.95,120.61 574.95,113.52 582.04,106.43 " />
+          <polygon
+             id="polygon11737"
+             style="fill:#d1d7da"
+             points="582.04,113.52 589.13,120.61 589.13,113.52 582.04,106.43 " />
+          <polygon
+             id="polygon11739"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,113.52 589.13,120.61 589.13,113.52 582.04,106.43 " />
+          <rect
+             id="rect11741"
+             style="fill:#d1d7da"
+             transform="rotate(-45,591.32995,145.26311)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="577.13" />
+          <rect
+             id="rect11743"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             transform="rotate(-45,591.32995,145.26311)"
+             height="10.03"
+             width="10.03"
+             y="136.28"
+             x="577.13" />
+          <polygon
+             id="polygon11745"
+             style="fill:#d1d7da"
+             points="582.04,141.88 574.95,148.97 574.95,141.88 582.04,134.79 " />
+          <polygon
+             id="polygon11747"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,141.88 574.95,148.97 574.95,141.88 582.04,134.79 " />
+          <polygon
+             id="polygon11749"
+             style="fill:#d1d7da"
+             points="582.04,141.88 589.13,148.97 589.13,141.88 582.04,134.79 " />
+          <polygon
+             id="polygon11751"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="582.04,141.88 589.13,148.97 589.13,141.88 582.04,134.79 " />
+          <polygon
+             id="polygon11753"
+             style="fill:#d1d7da"
+             points="578.5,166.7 582.04,166.7 582.04,163.15 " />
+          <g
+             id="g11757"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11755"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="582.04,170.24 574.95,177.34 574.95,170.24 582.04,163.15 " />
+          </g>
+          <polygon
+             id="polygon11759"
+             style="fill:#d1d7da"
+             points="582.04,166.7 585.59,166.7 582.04,163.15 " />
+          <g
+             id="g11763"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11761"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="582.04,170.24 589.13,177.34 589.13,170.24 582.04,163.15 " />
+          </g>
+          <polygon
+             id="polygon11765"
+             style="fill:#d1d7da"
+             points="595.72,21.84 595.72,20.83 589.13,14.24 582.04,21.34 589.13,28.43 " />
+          <g
+             id="g11769"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11767"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,598.45005,17.623874)"
+               height="10.03"
+               width="10.03"
+               y="8.6499996"
+               x="584.21997" />
+          </g>
+          <polygon
+             id="polygon11771"
+             style="fill:#d1d7da"
+             points="582.04,21.34 589.13,14.24 589.13,10.7 585.59,10.7 582.04,14.24 " />
+          <g
+             id="g11775"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11773"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,14.24 582.04,21.34 582.04,14.24 589.13,7.15 " />
+          </g>
+          <polygon
+             id="polygon11777"
+             style="fill:#d1d7da"
+             points="595.72,20.83 595.72,13.74 592.68,10.7 589.13,10.7 589.13,14.24 " />
+          <g
+             id="g11781"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11779"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,14.24 596.22,21.34 596.22,14.24 589.13,7.15 " />
+          </g>
+          <polygon
+             id="polygon11783"
+             style="fill:#d1d7da"
+             points="595.72,50.21 595.72,49.19 589.13,42.61 582.04,49.7 589.13,56.79 " />
+          <g
+             id="g11787"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11785"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,598.43903,45.988436)"
+               height="10.03"
+               width="10.03"
+               y="37.009998"
+               x="584.21997" />
+          </g>
+          <polygon
+             id="polygon11789"
+             style="fill:#d1d7da"
+             points="589.13,42.61 582.04,49.7 582.04,42.61 589.13,35.52 " />
+          <polygon
+             id="polygon11791"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="589.13,42.61 582.04,49.7 582.04,42.61 589.13,35.52 " />
+          <polygon
+             id="polygon11793"
+             style="fill:#d1d7da"
+             points="589.13,35.52 589.13,42.61 595.72,49.19 595.72,42.1 " />
+          <g
+             id="g11797"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11795"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,42.61 596.22,49.7 596.22,42.61 589.13,35.52 " />
+          </g>
+          <polygon
+             id="polygon11799"
+             style="fill:#d1d7da"
+             points="595.72,78.57 595.72,77.56 589.13,70.97 582.04,78.06 589.13,85.15 " />
+          <g
+             id="g11803"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11801"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,598.44509,74.345927)"
+               height="10.03"
+               width="10.03"
+               y="65.379997"
+               x="584.21997" />
+          </g>
+          <polygon
+             id="polygon11805"
+             style="fill:#d1d7da"
+             points="589.13,70.97 582.04,78.06 582.04,70.97 589.13,63.88 " />
+          <polygon
+             id="polygon11807"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="589.13,70.97 582.04,78.06 582.04,70.97 589.13,63.88 " />
+          <polygon
+             id="polygon11809"
+             style="fill:#d1d7da"
+             points="589.13,63.88 589.13,70.97 595.72,77.56 595.72,70.47 " />
+          <g
+             id="g11813"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11811"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,70.97 596.22,78.06 596.22,70.97 589.13,63.88 " />
+          </g>
+          <polygon
+             id="polygon11815"
+             style="fill:#d1d7da"
+             points="595.72,106.93 595.72,105.92 589.13,99.34 582.04,106.43 589.13,113.52 " />
+          <g
+             id="g11819"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11817"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,598.44615,102.71549)"
+               height="10.03"
+               width="10.03"
+               y="93.739998"
+               x="584.21997" />
+          </g>
+          <polygon
+             id="polygon11821"
+             style="fill:#d1d7da"
+             points="589.13,99.34 582.04,106.43 582.04,99.34 589.13,92.25 " />
+          <polygon
+             id="polygon11823"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="589.13,99.34 582.04,106.43 582.04,99.34 589.13,92.25 " />
+          <polygon
+             id="polygon11825"
+             style="fill:#d1d7da"
+             points="589.13,92.25 589.13,99.34 595.72,105.92 595.72,98.83 " />
+          <g
+             id="g11829"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11827"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,99.34 596.22,106.43 596.22,99.34 589.13,92.25 " />
+          </g>
+          <polygon
+             id="polygon11831"
+             style="fill:#d1d7da"
+             points="595.72,135.3 595.72,134.28 589.13,127.7 582.04,134.79 589.13,141.88 " />
+          <g
+             id="g11835"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11833"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,598.45221,131.07298)"
+               height="10.03"
+               width="10.03"
+               y="122.1"
+               x="584.21997" />
+          </g>
+          <polygon
+             id="polygon11837"
+             style="fill:#d1d7da"
+             points="589.13,127.7 582.04,134.79 582.04,127.7 589.13,120.61 " />
+          <polygon
+             id="polygon11839"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="589.13,127.7 582.04,134.79 582.04,127.7 589.13,120.61 " />
+          <polygon
+             id="polygon11841"
+             style="fill:#d1d7da"
+             points="589.13,120.61 589.13,127.7 595.72,134.28 595.72,127.19 " />
+          <g
+             id="g11845"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11843"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,127.7 596.22,134.79 596.22,127.7 589.13,120.61 " />
+          </g>
+          <polygon
+             id="polygon11847"
+             style="fill:#d1d7da"
+             points="595.72,163.66 595.72,162.65 589.13,156.06 582.04,163.15 585.59,166.7 592.68,166.7 " />
+          <g
+             id="g11851"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11849"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,598.44119,159.43754)"
+               height="10.03"
+               width="10.03"
+               y="150.47"
+               x="584.21997" />
+          </g>
+          <polygon
+             id="polygon11853"
+             style="fill:#d1d7da"
+             points="589.13,156.06 582.04,163.15 582.04,156.06 589.13,148.97 " />
+          <polygon
+             id="polygon11855"
+             style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+             points="589.13,156.06 582.04,163.15 582.04,156.06 589.13,148.97 " />
+          <polygon
+             id="polygon11857"
+             style="fill:#d1d7da"
+             points="589.13,148.97 589.13,156.06 595.72,162.65 595.72,155.56 " />
+          <g
+             id="g11861"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11859"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="589.13,156.06 596.22,163.15 596.22,156.06 589.13,148.97 " />
+          </g>
+          <polygon
+             id="polygon11863"
+             style="fill:#d1d7da"
+             points="592.68,10.7 595.72,13.74 595.72,10.7 " />
+          <g
+             id="g11867"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11865"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,605.53816,3.4478818)"
+               height="10.03"
+               width="10.03"
+               y="-5.5300002"
+               x="591.31" />
+          </g>
+          <polygon
+             id="polygon11869"
+             style="fill:#d1d7da"
+             points="589.13,35.52 595.72,42.1 595.72,28.93 " />
+          <g
+             id="g11873"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11871"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,605.53215,31.800373)"
+               height="10.03"
+               width="10.03"
+               y="22.83"
+               x="591.31" />
+          </g>
+          <polygon
+             id="polygon11875"
+             style="fill:#d1d7da"
+             points="595.72,21.84 589.13,28.43 589.13,35.52 595.72,28.93 " />
+          <g
+             id="g11879"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11877"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="596.22,28.43 589.13,35.52 589.13,28.43 596.22,21.34 " />
+          </g>
+          <polygon
+             id="polygon11881"
+             style="fill:#d1d7da"
+             points="589.13,63.88 595.72,70.47 595.72,57.3 " />
+          <g
+             id="g11885"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11883"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,605.5332,60.169935)"
+               height="10.03"
+               width="10.03"
+               y="51.189999"
+               x="591.31" />
+          </g>
+          <polygon
+             id="polygon11887"
+             style="fill:#d1d7da"
+             points="595.72,50.21 589.13,56.79 589.13,63.88 595.72,57.3 " />
+          <g
+             id="g11891"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11889"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="596.22,56.79 589.13,63.88 589.13,56.79 596.22,49.7 " />
+          </g>
+          <polygon
+             id="polygon11893"
+             style="fill:#d1d7da"
+             points="589.13,92.25 595.72,98.83 595.72,85.66 " />
+          <g
+             id="g11897"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11895"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,605.53926,88.527426)"
+               height="10.03"
+               width="10.03"
+               y="79.559998"
+               x="591.31" />
+          </g>
+          <polygon
+             id="polygon11899"
+             style="fill:#d1d7da"
+             points="595.72,78.57 589.13,85.15 589.13,92.25 595.72,85.66 " />
+          <g
+             id="g11903"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11901"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="596.22,85.15 589.13,92.25 589.13,85.15 596.22,78.06 " />
+          </g>
+          <polygon
+             id="polygon11905"
+             style="fill:#d1d7da"
+             points="589.13,120.61 595.72,127.19 595.72,114.03 " />
+          <g
+             id="g11909"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11907"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,605.54032,116.89699)"
+               height="10.03"
+               width="10.03"
+               y="107.92"
+               x="591.31" />
+          </g>
+          <polygon
+             id="polygon11911"
+             style="fill:#d1d7da"
+             points="595.72,106.93 589.13,113.52 589.13,120.61 595.72,114.02 " />
+          <g
+             id="g11915"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11913"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="596.22,113.52 589.13,120.61 589.13,113.52 596.22,106.43 " />
+          </g>
+          <polygon
+             id="polygon11917"
+             style="fill:#d1d7da"
+             points="589.13,148.97 595.72,155.56 595.72,142.39 " />
+          <g
+             id="g11921"
+             clip-path="url(#clip-path-647)">
+            <rect
+               id="rect11919"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               transform="rotate(-45,605.5293,145.26155)"
+               height="10.03"
+               width="10.03"
+               y="136.28999"
+               x="591.31" />
+          </g>
+          <polygon
+             id="polygon11923"
+             style="fill:#d1d7da"
+             points="595.72,135.3 589.13,141.88 589.13,148.97 595.72,142.39 " />
+          <g
+             id="g11927"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11925"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="596.22,141.88 589.13,148.97 589.13,141.88 596.22,134.79 " />
+          </g>
+          <polygon
+             id="polygon11929"
+             style="fill:#d1d7da"
+             points="592.68,166.7 595.72,166.7 595.72,163.66 " />
+          <g
+             id="g11933"
+             clip-path="url(#clip-path-647)">
+            <polygon
+               id="polygon11931"
+               style="fill:none;stroke:#ffffff;stroke-width:0.08933961px;stroke-miterlimit:10"
+               points="596.22,170.24 589.13,177.34 589.13,170.24 596.22,163.15 " />
+          </g>
+        </g>
+      </g>
+      <g
+         data-name="Rahmen Kopie 2"
+         id="Rahmen_Kopie_2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path11939"
+           style="fill:#00a6e2"
+           transform="translate(-0.1,7.67)"
+           d="M 539.6,158.77 471.38,119.29 V 40.37 L 539.6,0.9 607.82,40.37 v 78.92 z m -56.22,-46.4 56.22,32.53 56.22,-32.53 V 47.29 L 539.6,14.77 483.38,47.29 Z" />
+        <polygon
+           id="polygon11941"
+           style="fill:none;stroke:#e61f4e;stroke-width:0.2px;stroke-miterlimit:10"
+           points="539.36,15.26 601.58,51.26 601.58,123.26 539.36,159.26 477.14,123.26 477.14,51.26 " />
+      </g>
+      <g
+         id="g11954">
+        <polygon
+           id="polygon11944"
+           style="fill:#ffffff"
+           points="557.23,68.92 562.25,68.92 562.25,84.01 557.23,84.01 557.23,89.04 552.2,89.04 552.2,94.07 527.05,94.07 527.05,89.04 522.02,89.04 522.02,84.01 516.99,84.01 516.99,68.92 522.02,68.92 522.02,63.9 557.23,63.9 " />
+        <polygon
+           id="polygon11946"
+           style="fill:#1d1d1b"
+           points="522.02,73.95 522.02,78.98 527.05,78.98 527.05,73.95 " />
+        <polygon
+           id="polygon11948"
+           style="fill:#1d1d1b"
+           points="557.23,73.95 552.2,73.95 552.2,78.98 557.23,78.98 " />
+        <polygon
+           id="polygon11950"
+           style="fill:#1d1d1b"
+           points="532.08,78.98 532.08,89.04 547.17,89.04 547.17,78.98 542.14,78.98 542.14,84.01 537.11,84.01 537.11,78.98 " />
+        <path
+           inkscape:connector-curvature="0"
+           id="path11952"
+           style="fill:#00a6e2"
+           transform="translate(-0.1,7.67)"
+           d="m 562.36,76.34 h -5 v 5 h -5 v 5 h -25.21 v -5 h -5 v -5 h -5 V 61.25 h 5 v -5 h 35.21 v 5 h 5 z m 0,-35.21 v -5 H 552.3 v 5 h -5 v 5 h -15.12 v -5 h -5 v -5 h -10.09 v 5 h -5 v 40.24 h 5 v 5 h 5 v 5 h 35.21 v -5 h 5 v -5 h 5 V 41.13 Z" />
+      </g>
+    </g>
+    <g
+       id="g13465">
+      <g
+         id="g13429">
+        <rect
+           id="rect13425"
+           style="fill:#ea5297"
+           height="24"
+           width="93"
+           y="107.98"
+           x="492.85999" />
+        <polyline
+           id="polyline13427"
+           style="fill:#ea5297"
+           points="566.86 107.98 566.86 102.37 572.53 108.09" />
+      </g>
+      <g
+         id="g13463">
+        <path
+           inkscape:connector-curvature="0"
+           id="path13431"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 500.36,103.23 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,3.85 h 0.83 V 109 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-6 h 0.82 v 0.83 h -0.82 z m 0,6.6 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,6.6 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,6.6 h 0.82 v 0.83 h -0.82 z m 1.1,-6 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 V 109 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13433"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 507,103.23 h 0.83 v 0.83 H 507 Z m 0,1.1 h 0.83 v 0.83 H 507 Z m 0,1.1 h 0.83 v 0.83 H 507 Z m 0,1.1 h 0.83 v 0.83 H 507 Z m 0,1.1 h 0.83 v 0.83 H 507 Z m 0,1.1 h 0.83 v 0.83 H 507 Z m 1.1,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,0 h 0.8 v 0.83 h -0.82 z m 1.1,0 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13435"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 513.56,103.78 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 V 109 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-6 h 0.82 v 0.83 h -0.82 z m 0,6.6 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,3.85 h 0.82 v 0.83 h -0.82 z m 0,2.75 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,3.85 h 0.83 v 0.83 h -0.83 z m 0,2.75 h 0.83 v 0.83 h -0.83 z m 1.1,-6 h 0.83 v 0.83 H 518 Z m 0,3.3 h 0.83 v 0.83 H 518 Z m 0,1.1 h 0.83 V 109 H 518 Z m 0,1.1 h 0.83 v 0.83 H 518 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13437"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="M 520.16,103.78 H 521 v 0.83 h -0.83 z m 0,1.1 H 521 v 0.83 h -0.83 z m 0,1.1 H 521 v 0.83 h -0.83 z m 0,1.1 H 521 v 0.83 h -0.83 z m 0,1.1 H 521 V 109 h -0.83 z m 0,1.1 H 521 v 0.83 h -0.83 z m 1.1,-6 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,3.3 h 0.83 v 0.83 h -0.83 z m 0,3.3 h 0.83 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,3.3 h 0.83 v 0.83 h -0.83 z m 0,3.3 h 0.83 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13439"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 526.76,103.23 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-4.4 h 0.83 v 0.83 h -0.83 z m 1.1,1.1 h 0.83 v 0.83 H 529 Z m 1.1,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-4.4 H 532 v 0.83 h -0.83 z m 0,1.1 H 532 v 0.83 h -0.83 z m 0,1.1 H 532 v 0.83 h -0.83 z m 0,1.1 H 532 v 0.83 h -0.83 z m 0,1.1 H 532 v 0.83 h -0.83 z m 0,1.1 H 532 v 0.83 h -0.83 z m 0,1.1 H 532 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13441"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 533.36,103.23 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z m 1.1,-6 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 V 109 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13443"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 546.56,103.23 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-3.3 h 0.83 v 0.83 h -0.83 z m 1.1,0 h 0.83 v 0.83 h -0.83 z m 1.1,0 h 0.83 v 0.83 h -0.83 z m 1.1,-3.3 h 0.83 v 0.83 H 551 Z m 0,1.1 h 0.83 v 0.83 H 551 Z m 0,1.1 h 0.83 v 0.83 H 551 Z m 0,1.1 h 0.83 v 0.83 H 551 Z m 0,1.1 h 0.83 v 0.83 H 551 Z m 0,1.1 h 0.83 v 0.83 H 551 Z m 0,1.1 h 0.83 v 0.83 H 551 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13445"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="M 553.16,104.33 H 554 v 0.83 h -0.83 z m 0,1.1 H 554 v 0.83 h -0.83 z m 0,1.1 H 554 v 0.83 h -0.83 z m 0,1.1 H 554 v 0.83 h -0.83 z m 0,1.1 H 554 v 0.83 h -0.83 z m 0,1.1 H 554 v 0.83 h -0.83 z m 1.1,-6.32 h 0.83 v 0.82 h -0.83 z m 0,3.57 h 0.83 v 0.83 h -0.83 z m 1.1,-3.85 h 0.83 v 0.83 h -0.83 z m 0,3.85 h 0.83 v 0.83 h -0.83 z m 1.1,-3.57 h 0.83 v 0.82 h -0.83 z m 0,3.57 h 0.83 v 0.83 h -0.83 z m 1.1,-2.75 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13447"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 559.76,103.78 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 V 109 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-6 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 H 562 Z m 0,6.6 h 0.83 v 0.83 H 562 Z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z m 1.1,-6 H 565 v 0.83 h -0.83 z m 0,5.5 H 565 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13449"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 566.36,103.23 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 0,1.1 h 0.83 v 0.83 h -0.83 z m 1.1,-3.3 h 0.83 v 0.83 h -0.83 z m 1.1,-1.1 h 0.83 v 0.83 h -0.83 z m 0,2.2 h 0.83 v 0.83 h -0.83 z m 1.1,-3.3 h 0.83 v 0.83 h -0.83 z m 0,4.4 h 0.83 v 0.83 h -0.83 z m 1.1,-5.5 h 0.83 v 0.83 h -0.83 z m 0,6.6 h 0.83 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13451"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 573,103.23 h 0.83 v 0.83 H 573 Z m 1.1,0 h 0.83 v 0.83 h -0.83 z m 1.1,0 h 0.8 v 0.83 h -0.83 z m 0,1.1 h 0.8 v 0.83 h -0.83 z m 0,1.1 h 0.8 v 0.83 h -0.83 z m 0,1.1 h 0.8 v 0.83 h -0.83 z m 0,1.1 h 0.8 v 0.83 h -0.83 z m 0,1.1 h 0.8 v 0.83 h -0.83 z m 0,1.1 h 0.8 v 0.83 h -0.83 z m 1.1,-6.6 h 0.83 v 0.83 h -0.83 z m 1.1,0 h 0.83 v 0.83 h -0.83 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13453"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 523.46,113.78 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 V 119 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-6 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,6.6 h 0.82 v 0.83 h -0.82 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13455"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 530.06,113.23 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,1.1 H 532 v 0.83 h -0.82 z m 1.1,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-5.5 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13457"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 536.66,113.78 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 V 119 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-6 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 0,3.3 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 h 0.82 v 0.83 H 540 Z m 0,3.3 h 0.82 v 0.83 H 540 Z m 0,3.3 h 0.82 v 0.83 H 540 Z m 1.1,-6.6 h 0.82 v 0.83 h -0.82 z m 0,6.6 h 0.82 v 0.83 h -0.82 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13459"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 543.26,113.23 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-4.4 h 0.82 v 0.83 h -0.82 z m 1.1,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-4.4 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13461"
+           style="fill:#ffffff"
+           transform="translate(-0.1,7.67)"
+           d="m 549.86,113.23 h 0.83 v 0.83 h -0.83 z m 1.1,0 h 0.82 v 0.83 H 551 Z m 1.1,0 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 0,1.1 h 0.82 v 0.83 h -0.82 z m 1.1,-6.6 H 554 v 0.83 h -0.82 z m 1.1,0 h 0.82 v 0.83 h -0.82 z" />
+      </g>
+    </g>
+  </g>
+</svg>
