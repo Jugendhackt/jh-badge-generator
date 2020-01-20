@@ -30,7 +30,7 @@ window.onload = function() {
 }
 function renderBadge() {
 	project.clear();
-	paper.view.zoom = 13;
+	paper.view.zoom = 10;
 	paper.view.center = (30,30);
 
 
