@@ -91,7 +91,7 @@ function renderBadge() {
 	    // TODO: make configurable
 	    logo.children['fg'].fillColor = logo_color;
 	}
-	var logo = paper.project.importSVG("http://localhost:8000/jh.svg", {onLoad: onLogoLoad});
+	var logo = paper.project.importSVG("jh.svg", {onLoad: onLogoLoad});
 	var boxTriangle = new Path(new Point(33.66, 33.33), new Point(33.66,35.33), new Point(35.66,35.33));
 	boxTriangle.fillColor = text_background_color;
 
