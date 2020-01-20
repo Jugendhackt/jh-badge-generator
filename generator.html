@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+<meta charset="UTF-8">
+
+    <title>Badge Generator</title>
+    <script src="js/opentype.js"></script>
+    <script src="js/paper-full.js"></script>
+    <script src="js/generator.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/generator.css">
+  </head>
+  <body>
+	<div class="menue">
+		<div class="stage" id="one" style="height: 20vh">
+			<div class="number">1</div>
+			<h2 >Add Text & Color</h2>
+			<div class="stagecontent">
+				<span style="margin: 0 auto;"><input type="text" id="eventtext" placeholder="event" autocomplete="off" maxlength="14"></input></span>
+				<span style="margin: 0 auto;"><input type="text" id="colorText" placeholder="#00a6de" autocomplete="off" maxlength="14"></input></span>
+				<span style="margin: 0 auto;"><button onclick="updateTextAndColor()">Save</button></span>
+			</div>
+		</div>
+		<div class="stage" id="six">
+			<div class="number">2</div>
+			<div class="content">
+				<button onclick="downloadSVG()">save SVG</button>
+			</div>
+		</div>
+    </div>
+    <canvas id="paperCanvas" resize="true"></canvas>
+  </body>
+</html>
