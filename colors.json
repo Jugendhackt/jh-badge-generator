@@ -1,0 +1,20 @@
+{
+    "alien": {"body": "#00aae5"},
+    "bus_right": {"body": "#05b48d", "windows": "#00aae5", "roof": "#ffffff"},
+    "bus_left": {"body": "#05b48d", "windows": "#00aae5", "roof": "#ffffff"},
+    "cat": {"body": "#ffd003"},
+    "catdog": {"cat": "#ffd003", "dog": "#ed5aa1"},
+    "creature_01": {"body": "#ffe72b"},
+    "creature_02": {"body": "#4e58a6"},
+    "dog": {"body": "#00a6de"},
+    "glasses": {"frame": "#231f20", "glass": "#c5ced4"},
+    "laptop": {"screen": "#00aae5", "keyboard": "#ffcf27"},
+    "monster_head_front": {"body": "#00aae5", "eye": "#05b48d", "lips": "#f37123"},
+    "monster_head_side": {"body": "#00aae5", "eyes": "#00498c", "lips": "#00b48d"},
+    "octopus": {"body": "#05b48d"},
+    "robot": {"body": "#f37123"},
+    "rocket": {"body": "#512e8d", "wings": "#ed5aa1"},
+    "teddy_left": {"body": "#05b48df"},
+    "teddy_right": {"body": "#ffcf27"},
+    "wrestler": {"head": "#f8962c", "mask": "#ffffff", "eyes": "#231f20"}
+}
